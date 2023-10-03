@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"created":"2023-10-03T19:56:54.918+02:00","updated":"2023-10-03T19:58:11.256+02:00"}
+{"dg-publish":true,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"created":"2023-10-03T19:56:54.918+02:00","updated":"2023-10-03T22:19:31.935+02:00"}
 ---
 
+# List of published content
 
-# Welcome to My Site!
-Thanks for visiting. I have [[other pages\|other pages]] as well as **bold text**, *italic text*, ~~strikethrough text~~ and I can share code: `<p></p>` and more!
+- [[Archive/Overthinking kills momentum\|Overthinking kills momentum]]:  *last update on October 03, 2023*
+- [[Archive/Optimize for data retrieval instead of storage\|Optimize for data retrieval instead of storage]]:  *last update on October 03, 2023*
 
-This is another paragraph.
-
-This is a code block:
-```php
-function hello() {
-	echo "Hello !";
-}
-```
+{ .block-language-dataview}
