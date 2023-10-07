@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","created":"2023-05-10T15:27:19.998+02:00","updated":"2023-10-03T22:08:16.717+02:00"}
+{"dg-publish":true,"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","updated":"2023-10-07T17:34:08.804+02:00"}
 ---
 
 # Optimize for data retrieval instead of storage
