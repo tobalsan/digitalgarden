@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/overthinking-kills-momentum/","created":"2022-10-14T08:48:09.887+02:00","updated":"2023-10-03T22:21:12.689+02:00"}
+{"dg-publish":true,"permalink":"/archive/overthinking-kills-momentum/","updated":"2023-10-07T17:34:25.613+02:00"}
 ---
 
 # Overthinking kills momentum
