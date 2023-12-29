@@ -10,6 +10,5 @@
 
 { .block-language-dataview}
 ## Finance (Français) 
-- [[Inbox/Ma sélection d'ETFs pour 2024\|Ma sélection d'ETFs pour 2024]]:  *mis à jour le 07/10/2023*
 
 { .block-language-dataview}
