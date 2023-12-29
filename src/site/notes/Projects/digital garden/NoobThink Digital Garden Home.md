@@ -4,6 +4,7 @@
 
 ## Essays (English)
 
+- [[Inbox/The Purpose of Writing\|The Purpose of Writing]]:  *last update on December 30, 2023*
 - [[Archive/Complexity cancels motivation\|Complexity cancels motivation]]:  *last update on October 07, 2023*
 - [[Archive/Overthinking kills momentum\|Overthinking kills momentum]]:  *last update on October 07, 2023*
 - [[Archive/Optimize for data retrieval instead of storage\|Optimize for data retrieval instead of storage]]:  *last update on October 07, 2023*
