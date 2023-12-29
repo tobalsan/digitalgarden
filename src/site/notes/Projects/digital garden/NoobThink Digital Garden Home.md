@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-07T17:48:31.702+02:00"}
+{"dg-publish":true,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"updated":"2023-12-29T23:59:24.242+01:00"}
 ---
 
 ## Essays (English)
@@ -10,5 +10,6 @@
 
 { .block-language-dataview}
 ## Finance (Français) 
+- [[Archive/Ma sélection d'ETFs pour 2024\|Ma sélection d'ETFs pour 2024]]:  *mis à jour le 29/12/2023*
 
 { .block-language-dataview}
