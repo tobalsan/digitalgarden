@@ -1,7 +1,8 @@
 ---
-{"title":"I don't give a fuck (and neither should you)","slug":"i-dont-give-a-fuck","created":"2020-04-30T09:00:00.000Z","updated":"2024-09-22T20:15:15.165+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2020-04-30-i-dont-give-a-fuck/","dgPassFrontmatter":true}
+{"title":"I don't give a fuck (and neither should you)","slug":"i-dont-give-a-fuck","created":"2020-04-30T09:00:00.000Z","updated":"2024-09-22T21:41:57.068+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2020-04-30-i-dont-give-a-fuck/","dgPassFrontmatter":true}
 ---
 
+# I don't give a fuck (and neither should you)
 _Note: this was published when the website was under a different domain name._
 
 Yes, I'm writing on a website called **dinh.sh**. A domain name that's my last name. How arrogant and self-centered. But you know what? I don't give a fuck.

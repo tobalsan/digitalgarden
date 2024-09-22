@@ -1,9 +1,8 @@
 ---
-{"title":"Home","dg-publish":true,"dg-home":true,"dg-footer":true,"dg-footer-position":1,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2024-09-22T21:34:55.489+02:00"}
+{"title":"Home","dg-publish":true,"dg-home":true,"dg-footer":true,"dg-footer-position":1,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2024-09-22T21:35:39.622+02:00"}
 ---
 
 ## Essays (English)
-
 - [[Archive/Optimize for data retrieval instead of storage\|Optimize for data retrieval instead of storage]]:  *last update on September 22, 2024*
 - [[Archive/Overthinking kills momentum\|Overthinking kills momentum]]:  *last update on September 22, 2024*
 - [[Archive/Complexity cancels motivation\|Complexity cancels motivation]]:  *last update on September 22, 2024*

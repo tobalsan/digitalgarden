@@ -1,8 +1,9 @@
 ---
-{"title":"3 picks this week","slug":"3-picks-this-week-2","created":"2020-05-09T09:00:00.000Z","updated":"2024-09-22T20:16:40.650+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-05-09-3-picks-this-week-2/","dgPassFrontmatter":true}
+{"title":"3 picks this week","slug":"3-picks-this-week-2","created":"2020-05-09T09:00:00.000Z","updated":"2024-09-22T21:41:42.899+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-05-09-3-picks-this-week-2/","dgPassFrontmatter":true}
 ---
 
 
+# 3 picks this week
 ## **A bit of motivation**
 
 _Don't worry I won't get into a 3720-word blog post on how to get motivated._

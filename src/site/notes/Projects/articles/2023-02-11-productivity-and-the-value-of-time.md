@@ -1,7 +1,8 @@
 ---
-{"title":"Productivity is linked directly to how you value your time","slug":"productivity-and-the-value-of-time","created":"2023-02-11T10:14:18.000Z","updated":"2024-09-22T20:19:34.802+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-02-11-productivity-and-the-value-of-time/","dgPassFrontmatter":true}
+{"title":"Productivity is linked directly to how you value your time","slug":"productivity-and-the-value-of-time","created":"2023-02-11T10:14:18.000Z","updated":"2024-09-22T21:39:32.208+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-02-11-productivity-and-the-value-of-time/","dgPassFrontmatter":true}
 ---
 
+# Productivity is linked directly to how you value your time
 Not valuing your time makes you less productive.
 
 During a big part of my life, I valued hard work and considered it as a good trait, partly due to my Asian upbringing. More often than not, it caused me to waste time on stuff that wasn't so important, or that could be done faster.

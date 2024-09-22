@@ -1,7 +1,8 @@
 ---
-{"title":"A simple way to reason from First Principles","slug":"a-simple-way-to-reason-from-first-principles","created":"2022-10-21T07:28:32.000Z","updated":"2024-09-22T20:18:57.443+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2022-10-21-a-simple-way-to-reason-from-first-principles/","dgPassFrontmatter":true}
+{"title":"A simple way to reason from First Principles","slug":"a-simple-way-to-reason-from-first-principles","created":"2022-10-21T07:28:32.000Z","updated":"2024-09-22T21:40:00.817+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2022-10-21-a-simple-way-to-reason-from-first-principles/","dgPassFrontmatter":true}
 ---
 
+# A simple way to reason from First Principles
 When was the last time you truly used your brain?
 No, I really mean intentionally use your thinking capacity to reason about something (as opposed to going through your life on auto-pilot).
 

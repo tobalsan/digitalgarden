@@ -1,7 +1,8 @@
 ---
-{"title":"Alfred, The Most Important App For Your Mac","slug":"alfred-the-most-important-app-for-your-mac","created":"2020-11-10T09:00:00.000Z","updated":"2024-09-22T20:17:00.065+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-11-10-alfred-the-most-important-app-for-your-mac/","dgPassFrontmatter":true}
+{"title":"Alfred, The Most Important App For Your Mac","slug":"alfred-the-most-important-app-for-your-mac","created":"2020-11-10T09:00:00.000Z","updated":"2024-09-22T21:41:23.957+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-11-10-alfred-the-most-important-app-for-your-mac/","dgPassFrontmatter":true}
 ---
 
+# Alfred, The Most Important App For Your Mac
 Many people I know use a mac. People I work with or friends. Surprisingly though, a lot of them—too many—don't use [Alfred](https://www.alfredapp.com/).
 
 Why is it surprising? Because it's probably **the most important app you will install on your mac**. It is for me. It's the very first app I install on a new mac. It's also one of the main reasons why I can't imagine returning on a Windows machine.

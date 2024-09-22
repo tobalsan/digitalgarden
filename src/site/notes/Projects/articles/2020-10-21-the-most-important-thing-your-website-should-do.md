@@ -1,7 +1,8 @@
 ---
-{"title":"The Most Important Thing Your Website Should Do","slug":"the-most-important-thing-your-website-should-do","created":"2020-10-21T09:00:00.000Z","updated":"2024-09-22T20:16:56.558+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-10-21-the-most-important-thing-your-website-should-do/","dgPassFrontmatter":true}
+{"title":"The Most Important Thing Your Website Should Do","slug":"the-most-important-thing-your-website-should-do","created":"2020-10-21T09:00:00.000Z","updated":"2024-09-22T21:41:36.369+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-10-21-the-most-important-thing-your-website-should-do/","dgPassFrontmatter":true}
 ---
 
+# The Most Important Thing Your Website Should Do
 So you just launched your website, and you're wondering if you're doing it right. You've probably browsed hundreds of other websites to get inspiration from, and you think you identified the most important parts of a website. It should have a logo, nice pictures, a navigation menu of course, a contact page, and some text about you or your business, right?
 
 ... Right?

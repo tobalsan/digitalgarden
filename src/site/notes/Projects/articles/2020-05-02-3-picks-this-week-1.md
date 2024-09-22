@@ -1,7 +1,8 @@
 ---
-{"title":"3 picks this week","slug":"3-picks-this-week-1","created":"2020-05-02T09:00:00.000Z","updated":"2024-09-22T20:15:20.873+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-05-02-3-picks-this-week-1/","dgPassFrontmatter":true}
+{"title":"3 picks this week","slug":"3-picks-this-week-1","created":"2020-05-02T09:00:00.000Z","updated":"2024-09-22T21:41:47.896+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-05-02-3-picks-this-week-1/","dgPassFrontmatter":true}
 ---
 
+# 3 picks this week
 ## **Tired of being distracted by Slack?**
 
 On the forum of a [community](https://makerpad.co/?target=_blank) I recently joined, someone talked about Slack's principal inconvience, which is that it quickly can become a nefarious distraction to your work. An interesting alternative that has been proposed was **Yac**.

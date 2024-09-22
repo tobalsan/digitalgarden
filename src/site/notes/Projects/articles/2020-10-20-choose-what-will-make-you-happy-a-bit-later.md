@@ -1,7 +1,8 @@
 ---
-{"title":"Choose what will make you happy a bit later","slug":"choose-what-will-make-you-happy-a-bit-later","created":"2020-10-20T09:00:00.000Z","updated":"2024-09-22T20:16:52.959+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2020-10-20-choose-what-will-make-you-happy-a-bit-later/","dgPassFrontmatter":true}
+{"title":"Choose what will make you happy a bit later","slug":"choose-what-will-make-you-happy-a-bit-later","created":"2020-10-20T09:00:00.000Z","updated":"2024-09-22T21:41:30.213+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2020-10-20-choose-what-will-make-you-happy-a-bit-later/","dgPassFrontmatter":true}
 ---
 
+# Choose what will make you happy a bit later
 _Every single day I learn something new or gain insights about life, either from books or experiences I live.I'm not here to give anyone lessons. I'm simply sharing this first and foremost for myself, as a way to make it stick and, second, to help anyone for whom these insights could be helpful._
 
 _Also, I'm keen on avoiding contributing to the overwhelming noise on the internet. Thus, I'll try to be as concise as possible._

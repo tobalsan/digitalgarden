@@ -1,9 +1,9 @@
 ---
-{"title":"Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them","slug":"the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them","created":"2023-06-06T04:54:17.000Z","updated":"2024-09-22T20:21:02.104+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-06-06-the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them/","dgPassFrontmatter":true}
+{"title":"Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them","slug":"the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them","created":"2023-06-06T04:54:17.000Z","updated":"2024-09-22T21:41:05.720+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-06-06-the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them/","dgPassFrontmatter":true}
 ---
 
-
-> [!info] Title
+# Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them
+> [!info] This article is obsolete
 > This is a relatively old post, written in 2022 but published in 2023. It could still be helpful to some people who didn't update to macOS Ventura yet.
 
 Many Alfred workflows rely on Python 2, but in the most recent upgrade of macOS (at the time of writing this article), namely macOS 12.3 Monterey, Apple decided to ditch the bundled version 2 of Python. As a consequence, you might have Alfred workflows that simply stopped working.

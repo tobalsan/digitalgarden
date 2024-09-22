@@ -1,7 +1,8 @@
 ---
-{"title":"So I Bought The New MacBook Air M1","slug":"so-i-bought-the-new-macbook-air-m1","created":"2020-12-20T13:10:48.000Z","updated":"2024-09-22T20:18:23.728+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-12-20-so-i-bought-the-new-macbook-air-m1/","dgPassFrontmatter":true}
+{"title":"So I Bought The New MacBook Air M1","slug":"so-i-bought-the-new-macbook-air-m1","created":"2020-12-20T13:10:48.000Z","updated":"2024-09-22T21:41:17.250+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["software"],"permalink":"/projects/articles/2020-12-20-so-i-bought-the-new-macbook-air-m1/","dgPassFrontmatter":true}
 ---
 
+# So I Bought The New MacBook Air M1
 4 years ago, I bought the latest MaBook Pro 13". It was the brand new [late 2016 model](https://appleinsider.com/inside/2016-macbook-pros-with-touch-bar), which introduced the Touch Bar. I wasn't particularly excited about the Touch Bar, but I loved the design of the laptop.
 
 Well, I sold it a month ago, and replaced it with the brand new MacBook Air of late 2020. The one with the Apple Silicon M1 chip.

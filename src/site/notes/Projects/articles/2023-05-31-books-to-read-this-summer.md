@@ -1,8 +1,8 @@
 ---
-{"title":"Books To Read This Summer","slug":"books-to-read-this-summer","created":"2023-05-31T20:10:18.000Z","updated":"2024-09-22T20:14:39.437+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2023-05-31-books-to-read-this-summer/","dgPassFrontmatter":true}
+{"title":"Books To Read This Summer","slug":"books-to-read-this-summer","created":"2023-05-31T20:10:18.000Z","updated":"2024-09-22T21:40:31.367+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"tags":["thoughts"],"permalink":"/projects/articles/2023-05-31-books-to-read-this-summer/","dgPassFrontmatter":true}
 ---
 
-
+# Books To Read This Summer
 Just a short list of books I've read in the past, along with a small comment to give you some context, and an idea of what the book is about.
 
 - [_How To Fail at Almost Everything and Still Win Big_](https://amzn.to/3hwMWQf) by [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams). A collection of practical advice on life and business, based on the life story of the author. Since he's a cartoonist, expect having fun reading it.

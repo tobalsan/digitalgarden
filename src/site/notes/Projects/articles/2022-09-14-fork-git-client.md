@@ -1,7 +1,8 @@
 ---
-{"title":"Fork is a great Git GUI client","slug":"fork-git-client","created":"2022-09-14T10:00:33.000Z","updated":"2024-09-22T20:18:51.721+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"excerpt":"Are you looking for a great Git client? Give Fork a try, it’s awesome.","permalink":"/projects/articles/2022-09-14-fork-git-client/","dgPassFrontmatter":true}
+{"title":"Fork is a great Git GUI client","slug":"fork-git-client","created":"2022-09-14T10:00:33.000Z","updated":"2024-09-22T21:40:24.523+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"excerpt":"Are you looking for a great Git client? Give Fork a try, it’s awesome.","permalink":"/projects/articles/2022-09-14-fork-git-client/","dgPassFrontmatter":true}
 ---
 
+# Fork is a great Git GUI client
 When I first learned about git, I heard that CLI was for real developers, and GUI tools for newbies. So for many years I stuck to using git with the command line interface to avoid getting called a newbie.
 
 But then I started using [PhpStorm](https://www.jetbrains.com/phpstorm/) about 5 years ago, and since it comes with a neat Git client that does a very decent job, I thought using a GUI client was not so bad after all. I used it for about a year, and while it's sufficient to get the job done, the interface is a little too austere.

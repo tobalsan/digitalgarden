@@ -1,7 +1,8 @@
 ---
-{"title":"I quit using Google","slug":"i-quit-using-from-google","created":"2023-06-04T10:24:46.000Z","updated":"2024-09-22T20:20:38.148+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-06-04-i-quit-using-from-google/","dgPassFrontmatter":true}
+{"title":"I quit using Google","slug":"i-quit-using-from-google","created":"2023-06-04T10:24:46.000Z","updated":"2024-09-22T21:40:16.736+02:00","dg-publish":true,"dg-list-home":true,"dg-tags":["noobthink"],"permalink":"/projects/articles/2023-06-04-i-quit-using-from-google/","dgPassFrontmatter":true}
 ---
 
+# I quit using Google
 For more than a decade, Google was my main gateway to the internet, like many others. In the last years, there's been quite a backlash against the giant from Mountain View, mostly about issues with user data privacy. The argument is that, if you use Google, you're basically allowing them to use your personal info as they wish.
 
 Last year, I switched to another search engine, but it wasn't really for the privacy issues. It is actually for a more subtle reason: to prevent my brain from atrophy. Let me explain.
