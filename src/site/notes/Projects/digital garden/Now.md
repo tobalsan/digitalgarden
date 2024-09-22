@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects/digital-garden/now/","title":"What I'm doing now","updated":"2024-09-22T19:25:52.994+02:00"}
+{"title":"What I'm doing now","slug":"now","created":"2020-12-20T07:34:29.000Z","updated":"2024-09-22T19:32:04.677+02:00","dg-publish":true,"dg-footer":true,"permalink":"/projects/digital-garden/now/","dgPassFrontmatter":true}
 ---
 
 
-(This is a now page, and if you have your own site, [you should make one](https://nownownow.com/about?target=_blank), too.)
+This is a now page, and if you have your own site, [you should make one](https://nownownow.com/about?target=_blank), too.
 
 I just moved in the family's house since August 2023.
 

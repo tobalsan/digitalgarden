@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/complexity-cancels-motivation/","updated":"2024-09-22T16:02:28.446+02:00"}
+{"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-05T20:32:00","permalink":"/archive/complexity-cancels-motivation/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:28.446+02:00"}
 ---
 
 # Complexity cancels motivation

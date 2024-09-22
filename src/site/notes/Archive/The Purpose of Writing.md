@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/the-purpose-of-writing/","updated":"2024-09-22T16:02:03.138+02:00"}
+{"created":"2023-11-23T15:59:00","dg-publish":true,"dg-list-home":true,"type":["essay"],"permalink":"/archive/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:03.138+02:00"}
 ---
 
 

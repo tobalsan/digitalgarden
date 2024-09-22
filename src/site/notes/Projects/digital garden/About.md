@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/projects/digital-garden/about/","title":"About this website (and its author)","updated":"2024-09-22T19:25:18.828+02:00"}
+{"title":"About this website (and its author)","slug":"about","created":"2020-12-20T07:31:43.000Z","updated":"2024-09-22T19:32:09.538+02:00","dg-publish":true,"dg-footer":true,"permalink":"/projects/digital-garden/about/","dgPassFrontmatter":true}
 ---
-
 
 Hi there!
 

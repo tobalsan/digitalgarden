@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/overthinking-kills-momentum/","updated":"2024-09-22T16:02:45.310+02:00"}
+{"project":["[[noobthink.com]]"],"status":["edit"],"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-13T12:54:00","permalink":"/archive/overthinking-kills-momentum/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:45.310+02:00"}
 ---
 
 # Overthinking kills momentum

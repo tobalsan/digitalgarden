@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","updated":"2024-09-22T16:02:57.611+02:00"}
+{"created":"2023-05-10T15:27:00","project":"[[noobthink.com]]","status":["draft"],"dg-publish":true,"dg-list-home":true,"type":["essay"],"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:57.611+02:00"}
 ---
 
 # Optimize for data retrieval instead of storage
