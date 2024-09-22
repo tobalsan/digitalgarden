@@ -1,5 +1,13 @@
 <footer class="site-footer sticky-footer">
     <div class="container">
-    <p>&copy; 2024 Noobthink. All rights reserved.</p>
+    <p>NoobThink &copy; 2024</p>
+    {% if collections.footerPages.length > 0 %}
+        <nav class="footer-nav">
+            {% for page in collections.footerPages %}
+                <a href="{{ page.url }}" class="footer-link">{{ page.data.title or page.fileSlug }}</a>
+                {% if not loop.last %}<span class="footer-separator">•</span>{% endif %}
+            {% endfor %}
+        </nav>
+    {% endif %}
     </div>
 </footer>

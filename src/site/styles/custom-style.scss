@@ -20,4 +20,23 @@ body {
     .site-footer p {
         margin: 0;
     }
+
+    .footer-nav {
+        margin-top: 10px;
+    }
+
+    .footer-link {
+        text-decoration: none;
+        color: var(--accent-1);
+    }
+
+    .footer-link:hover {
+        text-decoration: underline;
+    }
+
+    .footer-separator {
+        font-size: 2rem;
+        margin: 0 15px;
+        vertical-align: sub;
+    }
 }
