@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/projects/digital-garden/about/","title":"About this website (and its author)","updated":"2024-09-22T19:20:54.155+02:00"}
+{"dg-publish":true,"permalink":"/projects/digital-garden/about/","title":"About this website (and its author)","updated":"2024-09-22T19:25:18.828+02:00"}
 ---
 
 
 Hi there!
 
-I am Thinh, I currently live in Montingy-Les-Cormeilles. It's a town in the suburbs of Paris, France.
+I am Thinh, I currently live in Herblay. It's a town in the suburbs of Paris, France.
 
-Currently, my day job consists in doing freelance development for [Cloudi-Fi](https://www.cloudi-fi.com/?target=_blank), a french startup. Most of the work is on PHP development with the [Symfony framework](https://www.symfony.com/?target=_blank).
+I quit my day job last year doing freelance development for [Cloudi-Fi](https://www.cloudi-fi.com/?target=_blank), a french startup. 
 
 I also learn Ruby recently and starting to fall in love with [Ruby on Rails](https://rubyonrails.org/?target=_blank).
 
