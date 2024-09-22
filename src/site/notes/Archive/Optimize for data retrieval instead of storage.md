@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","updated":"2023-10-07T17:34:08.804+02:00"}
+{"dg-publish":true,"permalink":"/archive/optimize-for-data-retrieval-instead-of-storage/","updated":"2024-09-22T16:02:57.611+02:00"}
 ---
 
 # Optimize for data retrieval instead of storage
-
----
 ## Ditch the tags
 Too often we instinctively focus on data storage. We like putting:
 - labels

@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/archive/complexity-cancels-motivation/","updated":"2023-10-07T17:34:31.214+02:00"}
+{"dg-publish":true,"permalink":"/archive/complexity-cancels-motivation/","updated":"2024-09-22T16:02:28.446+02:00"}
 ---
 
 # Complexity cancels motivation
-Created: 2022-08-05 20:32
-
-
----
 When you starting mulling around a subject, it's too easy to forget about simplicity and make everything complex for nothing.
 What happens next is you start feeling anxious and unmotivated by any task,project, or idea. When you make a mountain of a molehill, everything feels laborious. Everything feels difficult, and demotivating..
 - You start a app development project for fun, and suddenly it becomes a problem of being able to scale to millions of users, testability, and being production ready.

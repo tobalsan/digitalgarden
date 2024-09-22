@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/archive/overthinking-kills-momentum/","updated":"2023-10-07T17:34:25.613+02:00"}
+{"dg-publish":true,"permalink":"/archive/overthinking-kills-momentum/","updated":"2024-09-22T16:02:45.310+02:00"}
 ---
 
 # Overthinking kills momentum
-Created: 2022-08-13 12:54
-
----
 Overthinking often leads to both running in circles, and complicating things more than necessary. If you lack motivation, and can't seem to get started to do anything, it's likely that you're [[Archive/Overthinking\|Overthinking]]. Remember that [[Archive/There is a time for thinking and a time for doing\|There is a time for thinking and a time for doing]].
 
 I asked once a good friend of mine who's run multiple successful ventures, what was his secret. His answer:
