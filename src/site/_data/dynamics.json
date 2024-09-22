@@ -1,0 +1,5 @@
+{
+  "common": {
+    "footer": ["components/custom-footer.njk"]
+  }
+}

@@ -3,11 +3,21 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    .content {
+        flex: 1 0 auto;
+    }
+
+    .site-footer {
+        flex-shrink: 0;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .site-footer p {
+        margin: 0;
+    }
 }
