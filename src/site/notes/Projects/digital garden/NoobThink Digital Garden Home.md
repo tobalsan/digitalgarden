@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2023-12-29T23:59:24.242+01:00"}
+{"title":"Home","dg-publish":true,"dg-home":true,"dg-footer":true,"dg-footer-position":1,"permalink":"/projects/digital-garden/noob-think-digital-garden-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2024-09-22T20:04:26.959+02:00"}
 ---
 
 ## Essays (English)
