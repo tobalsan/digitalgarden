@@ -3,7 +3,8 @@
     <p>NoobThink &copy; 2024</p>
     {% if collections.footerPages.length > 0 %}
         <nav class="footer-nav">
-            {% for page in collections.footerPages %}
+            {% set sortedFooterPages = collections.footerPages | sort(false, false, 'data.dg-footer-position') %}
+            {% for page in sortedFooterPages %}
                 <a href="{{ page.url }}" class="footer-link">{{ page.data.title or page.fileSlug }}</a>
                 {% if not loop.last %}<span class="footer-separator">•</span>{% endif %}
             {% endfor %}
