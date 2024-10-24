@@ -14,8 +14,8 @@
 
 { .block-language-dataview}
 ## Archive
-- [[Projects/articles/2022-10-24-hey\|Hey, a new way to do email]] *last update on 22/09/2024*
 - [[Projects/articles/2023-02-11-productivity-and-the-value-of-time\|Productivity is linked directly to how you value your time]] *last update on 22/09/2024*
+- [[Projects/articles/2022-10-24-hey\|Hey, a new way to do email]] *last update on 22/09/2024*
 - [[Projects/articles/2023-04-11-slow-down\|Slow down]] *last update on 22/09/2024*
 - [[Projects/articles/2022-10-21-a-simple-way-to-reason-from-first-principles\|A simple way to reason from First Principles]] *last update on 22/09/2024*
 - [[Projects/articles/2023-06-04-i-quit-using-from-google\|I quit using Google]] *last update on 22/09/2024*
