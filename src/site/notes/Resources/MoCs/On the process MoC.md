@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-04T13:09:00","aliases":"focus on the process","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-the-process-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T15:05:46.805+01:00"}
+{"created":"2022-06-04T13:09:00","aliases":"focus on the process","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-the-process-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T16:57:07.778+01:00"}
 ---
 
 [[ Home\| Home]] #moc 
@@ -26,3 +26,5 @@ Focus on [[Archive/Improvement over results\|Improvement over results]]. End goa
 - [[Archive/Iteration over small samples and recursive improvement\|Iteration over small samples and recursive improvement]]
 - [[Archive/The Progress Dichotomy — Active vs Passive state\|The Progress Dichotomy — Active vs Passive state]]
 - [[Inbox/The Only Real Path to Growth\|The Only Real Path to Growth]]
+- [[Projects/digital garden/articles/Do What Makes You Vibrate\|Do What Makes You Vibrate]]
+- [[Archive/Get shit done\|Get shit done]]

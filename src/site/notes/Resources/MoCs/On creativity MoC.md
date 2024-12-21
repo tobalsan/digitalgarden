@@ -1,10 +1,11 @@
 ---
-{"created":"2022-06-04T12:55","alias":"creativity","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-creativity-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T15:06:04.458+01:00"}
+{"created":"2022-06-04T12:55","alias":"creativity","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-creativity-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T16:57:17.537+01:00"}
 ---
 
 [[ Home\| Home]] #moc 
 
 # On creativity
+- [[Archive/Neural Harmony\|Neural Harmony]]
 - [[Archive/embrace constraints\|embrace constraints]]
 - [[Archive/How the humain brain works\|How the humain brain works]]
 - [[Archive/You can only connect the dots from afar\|You can only connect the dots from afar]]
@@ -21,3 +22,4 @@
 - [[Archive/Nobody knows anything\|Nobody knows anything]]
 - [[Archive/Why you are full of ideas and drive at night\|Why you are full of ideas and drive at night]]
 - [[Archive/Thoughts on Consumption vs Production and Information Culling\|Thoughts on Consumption vs Production and Information Culling]]
+- [[Archive/Get shit done\|Get shit done]]

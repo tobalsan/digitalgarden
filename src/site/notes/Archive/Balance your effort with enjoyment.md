@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-13T11:58:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/archive/balance-your-effort-with-enjoyment/","dgPassFrontmatter":true,"updated":"2024-12-21T15:38:39.324+01:00"}
+{"created":"2022-09-13T11:58:00","dg-publish":true,"permalink":"/archive/balance-your-effort-with-enjoyment/","dgPassFrontmatter":true,"updated":"2024-12-21T16:46:25.313+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # Balance your effort with enjoyment
 You wrote a 3,000 killer article with curated images and crazy value. It took you a whole week to put this up. You hit publish and... crickets.
 You feel angst, disgust, and frustration as if you've just been betrayed by the whole world. If you're particularly tenacious, you might do it a couple other times, but you inevitably give up after a while because it seems that it wasn't your calling after all. Or was it? 
