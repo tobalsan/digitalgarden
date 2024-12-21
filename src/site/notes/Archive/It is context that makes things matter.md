@@ -1,5 +1,5 @@
 ---
-{"aliases":"context","created":"2022-10-27T06:53:00","status":"edit","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/archive/it-is-context-that-makes-things-matter/","dgPassFrontmatter":true,"updated":"2024-10-24T21:48:44.640+02:00"}
+{"aliases":["context"],"created":"2022-10-27T06:53:00","dg-publish":true,"project":["[[noobthink.com]]"],"permalink":"/archive/it-is-context-that-makes-things-matter/","dgPassFrontmatter":true,"updated":"2024-12-21T15:48:26.369+01:00"}
 ---
 
 # It is context that makes things matter

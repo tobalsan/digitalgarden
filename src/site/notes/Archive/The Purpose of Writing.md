@@ -1,7 +1,8 @@
 ---
-{"created":"2023-11-23T15:59:00","dg-publish":true,"dg-list-home":true,"type":["essay"],"permalink":"/archive/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:03.138+02:00"}
+{"created":"2023-11-23T15:59:00","dg-publish":true,"type":["essay"],"permalink":"/archive/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2024-12-21T15:07:41.131+01:00"}
 ---
 
+[[Resources/MoCs/Note-taking MoC\|Note-taking MoC]]
 
 # The Purpose of Writing
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-05T20:32:00","permalink":"/archive/complexity-cancels-motivation/","dgPassFrontmatter":true,"updated":"2024-12-19T15:42:41.119+01:00"}
+{"dg-publish":true,"type":["essay"],"created":"2022-08-05T20:32:00","permalink":"/archive/complexity-cancels-motivation/","dgPassFrontmatter":true,"updated":"2024-12-21T15:17:19.357+01:00"}
 ---
 
 [[Resources/MoCs/Simplify MoC\|Simplify MoC]]

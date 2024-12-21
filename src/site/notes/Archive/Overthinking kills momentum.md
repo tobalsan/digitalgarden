@@ -1,9 +1,15 @@
 ---
-{"project":["[[noobthink.com]]"],"status":["edit"],"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-13T12:54:00","permalink":"/archive/overthinking-kills-momentum/","dgPassFrontmatter":true,"updated":"2024-12-19T16:01:48.888+01:00"}
+{"project":["[[noobthink.com]]"],"dg-publish":true,"type":["essay"],"created":"2022-08-13T12:54:00","permalink":"/archive/overthinking-kills-momentum/","dgPassFrontmatter":true,"updated":"2024-12-21T15:21:34.795+01:00"}
 ---
 
 # Overthinking kills momentum
-Overthinking often leads to both running in circles, and complicating things more than necessary. If you lack motivation, and can't seem to get started to do anything, it's likely that you're [[Archive/Overthinking\|Overthinking]]. Remember that [[Archive/There is a time for thinking and a time for doing\|There is a time for thinking and a time for doing]].
+Overthinking. Whatever problem you face, overthinking is part of it, not the solution.
+
+It’s also why, when you fully believe something about you to be true, it is, because you behave consistently with this belief and there is no overthinking.
+
+Overthinking, second thoughts, hesitation and inconsistency happen when you haven’t embraced fully the belief that you’re the kind of person who does what you want to do.
+
+Overthinking often leads to both running in circles, and complicating things more than necessary. If you lack motivation, and can't seem to get started to do anything, it's likely that you're overthinking. Remember that [[Archive/There is a time for thinking and a time for doing\|There is a time for thinking and a time for doing]].
 
 I asked once a good friend of mine who's run multiple successful ventures, what was his secret. His answer:
 > "I am stupid, I don't think too much before doing things and do stuff that people think of as stupid. I crashed often, but a few times I ended up finding something working that others couldn't because they thought it wasn't worth pursuing."
