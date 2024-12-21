@@ -1,12 +1,12 @@
 ---
-{"created":"2022-06-04T12:55","alias":"creativity","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-creativity-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T16:57:17.537+01:00"}
+{"created":"2022-06-04T12:55","alias":"creativity","tags":["moc"],"dg-publish":true,"permalink":"/resources/mo-cs/on-creativity-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T22:17:50.865+01:00"}
 ---
 
 [[ Home\| Home]] #moc 
 
 # On creativity
 - [[Archive/Neural Harmony\|Neural Harmony]]
-- [[Archive/embrace constraints\|embrace constraints]]
+- [[Archive/Embrace constraints\|Embrace constraints]]
 - [[Archive/How the humain brain works\|How the humain brain works]]
 - [[Archive/You can only connect the dots from afar\|You can only connect the dots from afar]]
 - [[Archive/Two types of creativity\|Two types of creativity]]

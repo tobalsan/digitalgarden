@@ -1,5 +1,5 @@
 ---
-{"created":202410041004,"dg-publish":true,"permalink":"/archive/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2024-12-21T15:40:08.587+01:00"}
+{"created":202410041004,"dg-publish":true,"permalink":"/archive/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2024-12-21T22:17:50.415+01:00"}
 ---
 
 [[Resources/MoCs/On the process MoC\|On the process MoC]]
@@ -10,7 +10,7 @@ This can happen make you waste time in your daily life, like wanting the best re
 But if you're not specific, how can you know what's the best for you? Because the best will never check *all* the boxes. So you have to determine what criteria is important to you, then make your decision based upon it. Overthinking, stagnation, analysis paralysis, mental depletion, and frustration occurs when you want to make the best decision, but haven't decided what *best decision* means exactly.
 This is even more important in never ending games—games where there are no strict rules and pre-determined end. Like in business, be it investing, trading, or entrepreneurship. Or even relationships.
 
-[[Archive/embrace constraints\|Rules and constraints breeds creativity, unlimited freedom stifles it]]. 
+[[Archive/Embrace constraints\|Rules and constraints breeds creativity, unlimited freedom stifles it]]. 
 When you're operating in a field where there are no clear limits— when the only rules that can exist are the one you set to yourself—it's easy to fall into the trap of wanting the best while staying vague in what it is you're trying to achieve. Wanting the best leads to overthinking, analysis paralysis, and a desire to keep as much possibilities open as possible. This means no clear boundaries, no clearly defined plan. You'll end up accepting less than what is worth to you, or keep moving the goalpost and never feeling satisfied. 
 True creativity is in the process, not in the goal-setting. It comes from making mistakes, learning from it, and adapting. Just look at nature. The most intelligent agent in the universe didn't arrive to what it is by grand design, but by constantly making mistakes and evolving. 
 ## Specificity leads to the right mistakes

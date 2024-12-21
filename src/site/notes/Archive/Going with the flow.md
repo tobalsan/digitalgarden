@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T23:30:00","dg-publish":true,"permalink":"/archive/going-with-the-flow/","dgPassFrontmatter":true,"updated":"2024-12-21T15:36:07.420+01:00"}
+{"created":"2022-06-28T23:30:00","dg-publish":true,"permalink":"/archive/going-with-the-flow/","dgPassFrontmatter":true,"updated":"2024-12-21T22:17:50.457+01:00"}
 ---
 
 [[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Archive/On success and hope\|On success and hope]]
@@ -25,7 +25,7 @@ Solutions not to force against yourself:
 - Forget about what you think you should do, if you don't want to do it, and do something else.
 - Change your [[environment\|environment]] and find a way to get into the mood of doing what you want to do.
 - Do it at a different time, when you'll be in the right [[Archive/Mind modes\|Mind modes]].
-- Choose how you're going to do it, apply [[Archive/embrace constraints\|constraints]], reduce the scope,
+- Choose how you're going to do it, apply [[Archive/Embrace constraints\|constraints]], reduce the scope,
 ## [[Archive/Taking the time to do things well\|Take your time]]
 Going with the flow also means *not hurrying*. Doing the things just at the right pace. Doing things too fast is a sign of focusing [[Archive/Improvement over results\|on the result]] rather than [[Resources/MoCs/On the process MoC\|the process]].
 If you're in a hurry, it's precisely [[Archive/When you should not want to be doing things\|When you should not want to be doing things]].

@@ -1,5 +1,5 @@
 ---
-{"created":202410101132,"status":"draft","dg-publish":true,"permalink":"/projects/digital-garden/articles/you-cannot-iterate-in-a-vacuum/","dgPassFrontmatter":true,"updated":"2024-12-21T15:40:00.055+01:00"}
+{"created":202410101132,"status":"draft","dg-publish":true,"permalink":"/projects/digital-garden/articles/you-cannot-iterate-in-a-vacuum/","dgPassFrontmatter":true,"updated":"2024-12-21T22:17:50.857+01:00"}
 ---
 
 [[Resources/MoCs/On the process MoC\|On the process MoC]]
@@ -7,7 +7,7 @@
 
 Life is creativity, creativity is growth, and growth is iteration. You can't iterate in a vacuum. 
 ## Constraints with a system
-[[Archive/embrace constraints\|Constraints breed creativity]]. This is why you must have a system, that is a clear plan, rules, parameters, and a [[Projects/digital garden/articles/Growth requires a deadline\|deadline]]. [[Archive/Be specific, or be mediocre\|Be concrete and specific]]. 
+[[Archive/Embrace constraints\|Constraints breed creativity]]. This is why you must have a system, that is a clear plan, rules, parameters, and a [[Projects/digital garden/articles/Growth requires a deadline\|deadline]]. [[Archive/Be specific, or be mediocre\|Be concrete and specific]]. 
 Then it's time for execution. If you don't execute your plan and follow your rules, you have nothing to measure failure or success.
 ## Review and revise
 Once you executed, whether you failed or succeeded, you have to review and revise your system. If you don't revise your system, no iteration is possible. It's a [[Resources/MoCs/On the process MoC\|constant process]], it's either growth or death.

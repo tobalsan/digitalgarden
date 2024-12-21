@@ -1,8 +1,8 @@
 ---
-{"created":"2023-01-05T22:27:00","dg-publish":true,"permalink":"/archive/you-are-nobody-so-you-can-be-whatever-you-want/","dgPassFrontmatter":true,"updated":"2024-12-21T15:50:40.812+01:00"}
+{"created":"2023-01-05T22:27:00","dg-publish":true,"permalink":"/archive/you-are-nobody-so-you-can-be-whatever-you-want/","dgPassFrontmatter":true,"updated":"2024-12-21T22:41:36.746+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]] • [[Resources/MoCs/On creativity MoC\|On creativity MoC]]
 # You are nobody so you can be whoever you want
 Trite inspirational stuff:
 > You can become whatever you want.
