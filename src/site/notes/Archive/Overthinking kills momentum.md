@@ -1,5 +1,5 @@
 ---
-{"project":["[[noobthink.com]]"],"status":["edit"],"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-13T12:54:00","permalink":"/archive/overthinking-kills-momentum/","dgPassFrontmatter":true,"updated":"2024-09-22T16:02:45.310+02:00"}
+{"project":["[[noobthink.com]]"],"status":["edit"],"dg-publish":true,"dg-list-home":true,"type":["essay"],"created":"2022-08-13T12:54:00","permalink":"/archive/overthinking-kills-momentum/","dgPassFrontmatter":true,"updated":"2024-12-19T16:01:48.888+01:00"}
 ---
 
 # Overthinking kills momentum
@@ -10,7 +10,7 @@ I asked once a good friend of mine who's run multiple successful ventures, what 
 
 The human mind loves to come with plenty of reasons as to why we shouldn't bother doing things in the first place. Maybe out of fear, in search of security and comfort. But the thing is that we talk ourselves out of action all the time. We want to be 100% sure what we're about to do is going to work out. So we think. We analyze. We research. But we never really go out there, expose ourselves on the field, taking real action.
 
-Overthinking is the opposite of [[Archive/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]. It's one of the [[Archive/Things we do backwards\|Things we do backwards]].
+Overthinking is the opposite of [[Archive/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]. It's one of the [[Resources/MoCs/Things we do backwards MoC\|Things we do backwards MoC]].
 Overthinking takes reality and makes it more and more abstract. The longer you think, the more abstract things become. Yet, [[Archive/We do concrete things\|We do concrete things]].
 
 All overthinking does is making us complicate things for no valid reason, and [[Archive/Complexity cancels motivation\|Complexity cancels motivation]].

@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-publish":true,"dg-list-home":true,"dg-tags":["finance"],"permalink":"/archive/ma-selection-d-et-fs-pour-2024/","dgPassFrontmatter":true,"updated":"2023-12-29T23:59:10.892+01:00"}
+{"tags":null,"dg-publish":true,"dg-list-home":true,"dg-tags":["finance"],"permalink":"/archive/ma-selection-d-et-fs-pour-2024/","dgPassFrontmatter":true,"updated":"2023-12-30T11:09:59.658+01:00"}
 ---
 
 # Ma sélection d'ETFs pour 2024
