@@ -2,7 +2,7 @@
 {"cssclasses":["hide-properties","hide-backlinks"],"dg-publish":true,"dg-home":true,"dg-footer":true,"dg-footer-position":1,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2024-12-21T15:00:44.668+01:00"}
 ---
 
- [[Journal/entries/2. Weekly Notes/2024/2024-W51\|:LiCalendar: This week]] • [[2024-12-21\|:LiCalendarDays: Today]] 
+ [[Journal/entries/2. Weekly Notes/2024/2024-W51\|:LiCalendar: This week]] • [[2024-12-22\|:LiCalendarDays: Today]] 
 
 ## :LiListTree: Maps of Content
  [[Resources/MoCs/People MoC\|People MoC]] • [[Resources/MoCs/Projects MoC\|Projects MoC]] 
