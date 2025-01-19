@@ -5,8 +5,8 @@
 [[ Home\| Home]] #moc 
 ## Simplify
 In everything you do, make it as simple as it can be.
-- [[Archive/Overthinking kills momentum\|Overthinking kills momentum]]
-- [[Archive/Complexity cancels motivation\|Complexity cancels motivation]]. 
-- [[Archive/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]
-- [[Archive/Winning right from the start\|Winning right from the start]]
-- [[Archive/Make it easy\|Make it easy]]
+- [[_Notes/Overthinking kills momentum\|Overthinking kills momentum]]
+- [[_Notes/Complexity cancels motivation\|Complexity cancels motivation]]. 
+- [[_Notes/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]
+- [[_Notes/Winning right from the start\|Winning right from the start]]
+- [[_Notes/Make it easy\|Make it easy]]

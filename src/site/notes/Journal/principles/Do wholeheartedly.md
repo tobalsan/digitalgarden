@@ -11,6 +11,6 @@ Whatever you decide to do, focus on it.
 	- Even if you're just washing dishes, take the time do it well.
 - Find joy in what you do, or spark it. Else, don't do it.
 
-[[Archive/Pay attention to your energy levels\|Pay attention to your energy levels]].
+[[_Notes/Pay attention to your energy levels\|Pay attention to your energy levels]].
 
-[[Archive/Nothing worse than going through the motions\|Nothing worse than going through the motions]]
+[[_Notes/Nothing worse than going through the motions\|Nothing worse than going through the motions]]

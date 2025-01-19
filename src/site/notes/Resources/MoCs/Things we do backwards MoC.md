@@ -4,10 +4,10 @@
 
 [[ Home\| Home]] #moc 
 # Things we do backwards MoC
-- [[Archive/Going fast does not mean hurrying up\|Going fast does not mean hurrying up]]
-- [[Archive/Human's risk evaluation is often backward\|Human's risk evaluation is often backward]]
-- [[Archive/Adequate patience\|Adequate patience]]
-- [[Archive/The two factors impairing our learning\|The two factors impairing our learning]]
-- [[Archive/Several things we do backwards\|Several things we do backwards]]
-- [[Archive/Timeframe fallacy\|Timeframe fallacy]]
-- [[Archive/Judgement is the end of thinking\|Judgement is the end of thinking]]
+- [[_Notes/Going fast does not mean hurrying up\|Going fast does not mean hurrying up]]
+- [[_Notes/Human's risk evaluation is often backward\|Human's risk evaluation is often backward]]
+- [[_Notes/Adequate patience\|Adequate patience]]
+- [[_Notes/The two factors impairing our learning\|The two factors impairing our learning]]
+- [[_Notes/Several things we do backwards\|Several things we do backwards]]
+- [[_Notes/Timeframe fallacy\|Timeframe fallacy]]
+- [[_Notes/Judgement is the end of thinking\|Judgement is the end of thinking]]

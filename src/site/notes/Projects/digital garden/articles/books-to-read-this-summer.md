@@ -1,5 +1,5 @@
 ---
-{"title":"Books To Read This Summer","slug":"books-to-read-this-summer","created":"2023-05-31T20:10:18.000Z","updated":"2024-12-07T22:10:39.261+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":["thoughts"],"permalink":"/projects/digital-garden/articles/books-to-read-this-summer/","dgPassFrontmatter":true}
+{"title":"Books To Read This Summer","slug":"books-to-read-this-summer","created":"2023-05-31T20:10:18.000Z","updated":"2024-12-24T15:47:43.903+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/books-to-read-this-summer/","dgPassFrontmatter":true}
 ---
 
 # Books To Read This Summer

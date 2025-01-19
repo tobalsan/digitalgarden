@@ -1,5 +1,5 @@
 ---
-{"title":"3 picks this week","slug":"3-picks-this-week-1","created":"2020-05-02T09:00:00.000Z","updated":"2024-12-07T22:10:41.120+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/3-picks-this-week-1/","dgPassFrontmatter":true}
+{"title":"3 picks this week","slug":"3-picks-this-week-1","created":"2020-05-02T09:00:00.000Z","updated":"2024-12-07T19:25:14.399+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/3-picks-this-week-1/","dgPassFrontmatter":true}
 ---
 
 # 3 picks this week

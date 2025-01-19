@@ -7,5 +7,5 @@
 # Note-taking MoC
 
 - [[Reference/10 Key Concepts to Use Obsidian\|10 Key Concepts to Use Obsidian]]
-- [[Archive/Optimize for data retrieval instead of storage\|Optimize for data retrieval instead of storage]]
-- [[Archive/The Purpose of Writing\|The Purpose of Writing]]
+- [[_Notes/Optimize for data retrieval instead of storage\|Optimize for data retrieval instead of storage]]
+- [[_Notes/The Purpose of Writing\|The Purpose of Writing]]

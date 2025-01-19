@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-21T17:08","type":"article","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/projects/digital-garden/articles/how-to-fix-google-o-auth-credentials-expiring-after-7-days-in-n8n/","dgPassFrontmatter":true,"updated":"2024-12-21T17:10:23.309+01:00"}
+{"created":"2024-12-21T17:08","type":"article","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/projects/digital-garden/articles/how-to-fix-google-o-auth-credentials-expiring-after-7-days-in-n8n/","dgPassFrontmatter":true,"updated":"2024-12-21T17:10:50.692+01:00"}
 ---
 
 # How to Fix Google OAuth Credentials Expiring After 7 Days in n8n

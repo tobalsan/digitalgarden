@@ -5,4 +5,4 @@
 # Few things really matter, give your attention to them and let go of the rest
 
 You can't give your time, attention, and energy to everything. You're going to wear yourself out, if not drive yourself nuts. Pick your battles, and ignore everything else. 
-[[Archive/Be pragmatic\|Be pragmatic]].
+[[_Notes/Be pragmatic\|Be pragmatic]].
