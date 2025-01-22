@@ -1,5 +1,5 @@
 ---
-{"title":"Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them","slug":"the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them","created":"2023-06-06T04:54:17.000Z","updated":"2024-12-07T19:25:14.386+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/the-upgrade-to-macos-12-3-monterey-broke-your-alfred-workflows-heres-how-to-fix-them/","dgPassFrontmatter":true}
+{"title":"Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them","dg-permalink":"fix-alfred-workflows-macos-12-3-monterey","created":"2023-06-06T04:54:17.000Z","updated":"2025-01-22T15:21:20.229+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"permalink":"/fix-alfred-workflows-macos-12-3-monterey/","dgPassFrontmatter":true}
 ---
 
 # Alfred workflows broken in macOS 12.3 Monterey? Here's how to fix them
