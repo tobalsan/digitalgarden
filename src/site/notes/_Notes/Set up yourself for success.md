@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:12:00","dg-publish":true,"permalink":"/notes/set-up-yourself-for-success/","dgPassFrontmatter":true,"updated":"2025-01-19T22:30:16.089+01:00"}
+{"created":"2022-06-28T23:12:00","dg-publish":true,"dg-path":"Set up yourself for success.md","permalink":"/set-up-yourself-for-success/","dgPassFrontmatter":true,"updated":"2025-01-19T22:30:16.089+01:00"}
 ---
 
-[[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Set up yourself for success
 Discipline, motivation, willpower: when striving for a goal, we tend to use brute force. That's laziness—lazy thinking—disguised as hard work.

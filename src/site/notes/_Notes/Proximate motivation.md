@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/proximate-motivation/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:59.258+01:00"}
+{"created":"2022-06-28T12:32:00","dg-publish":true,"dg-path":"Proximate motivation.md","permalink":"/proximate-motivation/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:59.258+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # Proximate motivation
 If you're feeling inspired and motivated after seeing someone else's comment, video, achievement, story or advice, you're feeding off extrinsic motivation, which is temporary, shallow and weak. You're after the result, you're just staring at the end goal.
 

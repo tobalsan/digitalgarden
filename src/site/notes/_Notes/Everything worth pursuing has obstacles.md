@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-19T22:22:00","dg-publish":true,"permalink":"/notes/everything-worth-pursuing-has-obstacles/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:09.246+01:00"}
+{"created":"2022-09-19T22:22:00","dg-publish":true,"dg-path":"Everything worth pursuing has obstacles.md","permalink":"/everything-worth-pursuing-has-obstacles/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:09.246+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Everything worth pursuing has obstacles
 Finding happiness, finding your soul mate, building a successful career or network, becoming an artist or an elite athlete, inventing new things, building an audience.
 All these things that we'd love achieving have one thing in common: they're full of obstacles. They're not *easy* to get.

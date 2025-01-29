@@ -1,8 +1,8 @@
 ---
-{"created":"2022-11-13T12:24:00","project":[["noobthink.com"]],"status":"edit","dg-publish":true,"permalink":"/notes/make-it-easy/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:20.270+01:00"}
+{"created":"2022-11-13T12:24:00","project":[["noobthink.com"]],"status":"edit","dg-publish":true,"dg-path":"Make it easy.md","permalink":"/make-it-easy/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:20.270+01:00"}
 ---
 
-[[Resources/MoCs/Simplify MoC\|Simplify MoC]] • [[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/Simplify MoC\|Simplify MoC]] • [[_Notes/On the process MoC\|On the process MoC]]
 # Make it easy
 What do you want to achieve? 
 Humans are driven by curiosity and progress. If you're stagnating, you're as much dead as alive. 

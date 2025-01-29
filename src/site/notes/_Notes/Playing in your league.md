@@ -1,8 +1,8 @@
 ---
-{"created":"2024-03-12T07:40:00","dg-publish":true,"permalink":"/notes/playing-in-your-league/","dgPassFrontmatter":true,"updated":"2025-01-19T22:17:03.476+01:00"}
+{"created":"2024-03-12T07:40:00","dg-publish":true,"dg-path":"Playing in your league.md","permalink":"/playing-in-your-league/","dgPassFrontmatter":true,"updated":"2025-01-19T22:17:03.476+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]] • [[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]] • [[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Playing in your league
 

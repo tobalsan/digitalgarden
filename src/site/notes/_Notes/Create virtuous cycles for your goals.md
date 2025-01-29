@@ -1,8 +1,8 @@
 ---
-{"created":"2020-01-08T11:49:00","dg-publish":true,"permalink":"/notes/create-virtuous-cycles-for-your-goals/","dgPassFrontmatter":true,"updated":"2025-01-19T22:22:40.336+01:00"}
+{"created":"2020-01-08T11:49:00","dg-publish":true,"dg-path":"Create virtuous cycles for your goals.md","permalink":"/create-virtuous-cycles-for-your-goals/","dgPassFrontmatter":true,"updated":"2025-01-19T22:22:40.336+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # Create Virtuous Cycles For Your Goals
 Achieving goals makes you believe you can achieve goals which in turns makes you achieving more goals. It’s a virtuous circle.

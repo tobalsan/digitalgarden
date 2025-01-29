@@ -1,5 +1,5 @@
 ---
-{"title":"Hey, a new way to do email","slug":"hey","created":"2022-10-24T21:05:00.000Z","updated":"2024-12-07T19:25:14.422+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/hey/","dgPassFrontmatter":true}
+{"title":"Hey, a new way to do email","slug":"hey","created":"2022-10-24T21:05:00.000Z","updated":"2024-12-07T19:25:14.422+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"dg-path":"hey.md","permalink":"/hey/","dgPassFrontmatter":true}
 ---
 
 # Hey, a new way to do email

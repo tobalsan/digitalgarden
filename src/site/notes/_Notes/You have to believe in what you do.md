@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T22:54:00","dg-publish":true,"permalink":"/notes/you-have-to-believe-in-what-you-do/","dgPassFrontmatter":true,"updated":"2025-01-19T22:20:37.749+01:00"}
+{"created":"2022-06-28T22:54:00","dg-publish":true,"dg-path":"You have to believe in what you do.md","permalink":"/you-have-to-believe-in-what-you-do/","dgPassFrontmatter":true,"updated":"2025-01-19T22:20:37.749+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # You have to believe in what you do
 What you believe is what ends up to be. What if you believed your writing was heavily anticipated, and cheered upon, and it delighted people? What kind of impact would it have on your energy, motivation and output?

@@ -1,5 +1,5 @@
 ---
-{"title":"The Most Important Thing Your Website Should Do","slug":"the-most-important-thing-your-website-should-do","created":"2020-10-21T09:00:00.000Z","updated":"2024-12-07T19:25:14.422+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/the-most-important-thing-your-website-should-do/","dgPassFrontmatter":true}
+{"title":"The Most Important Thing Your Website Should Do","slug":"the-most-important-thing-your-website-should-do","created":"2020-10-21T09:00:00.000Z","updated":"2024-12-07T19:25:14.422+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"dg-path":"the-most-important-thing-your-website-should-do.md","permalink":"/the-most-important-thing-your-website-should-do/","dgPassFrontmatter":true}
 ---
 
 # The Most Important Thing Your Website Should Do

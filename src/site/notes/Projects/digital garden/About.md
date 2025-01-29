@@ -1,5 +1,5 @@
 ---
-{"title":"About","slug":"about","created":"2020-12-20T07:31:43.000Z","updated":"2024-09-22T20:04:20.765+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":2,"permalink":"/projects/digital-garden/about/","dgPassFrontmatter":true}
+{"title":"About","slug":"about","created":"2020-12-20T07:31:43.000Z","updated":"2024-09-22T20:04:20.765+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":2,"dg-path":"digital garden/About.md","permalink":"/digital-garden/about/","dgPassFrontmatter":true}
 ---
 
 Hi there!

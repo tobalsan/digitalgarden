@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-15T22:19:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/notes/what-you-think-you-need-might-not-be-what-you-really-need/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.247+01:00"}
+{"created":"2022-09-15T22:19:00","project":[["noobthink.com"]],"dg-publish":true,"dg-path":"What you think you need might not be what you really need.md","permalink":"/what-you-think-you-need-might-not-be-what-you-really-need/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.247+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]] • [[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]] • [[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # What you think you need might not be what you really need
 In the wake of [[_Notes/Don't try - objectives do rarely work\|Don't try - objectives do rarely work]], not only goals can lead to deception: so do needs. 
 
@@ -14,7 +14,7 @@ You don't even need to *need something in order to achieve something else*. It c
 For instance, right now I think I need to:
 - learn about crypto, 
 - come up with business ideas, 
-- read [[Reference/Nir Eyal - Indistractable\|Nir Eyal - Indistractable]],
+- read [[_Notes/Nir Eyal - Indistractable\|Nir Eyal - Indistractable]],
 - get thousands of Twitter follower to get... well I'm not even sure to get what. A better network? Better opportunities? An easier time launching a business?
 
 But do I really need to do all those things? I tend to think that if I had these things sorted, I'd be closer to achieving my goal. But how can I know? Maybe the things I actually need to do are different than what I think I need. Maybe it is something I can't even think of because I'm not aware of its existence, let alone the implications of its existence.

@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-22T21:59:00","dg-publish":true,"permalink":"/notes/be-pragmatic/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:55.331+01:00"}
+{"created":"2022-06-22T21:59:00","dg-publish":true,"dg-path":"Be pragmatic.md","permalink":"/be-pragmatic/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:55.331+01:00"}
 ---
 
 # Being pragmatic

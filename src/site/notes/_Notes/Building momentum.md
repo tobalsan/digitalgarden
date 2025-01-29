@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/building-momentum/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:58.272+01:00"}
+{"created":"2022-06-28T12:32:00","dg-publish":true,"dg-path":"Building momentum.md","permalink":"/building-momentum/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:58.272+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On the process MoC\|On the process MoC]] • [[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # Building momentum
 ## **Snowball. Quick wins** 
 How do you grow every day? How are you improving, doing and learning new things? Everyday lately seems like stagnation = might as well be dead.

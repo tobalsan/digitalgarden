@@ -1,8 +1,8 @@
 ---
-{"created":"2021-01-12T10:59:00","dg-publish":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/a-lack-of-motivation-can-be-the-sign-of-too-much-focus-on-results/","dgPassFrontmatter":true,"updated":"2024-12-21T16:53:17.222+01:00"}
+{"created":"2021-01-12T10:59:00","dg-publish":true,"project":["[[noobthink.com]]"],"dg-path":"A Lack of Motivation Can Be The Sign of Too Much Focus on Results.md","permalink":"/a-lack-of-motivation-can-be-the-sign-of-too-much-focus-on-results/","dgPassFrontmatter":true,"updated":"2024-12-21T16:53:17.222+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # A Lack of Motivation Can Be The Sign of Too Much Focus on Results
 
 There's something you should do.

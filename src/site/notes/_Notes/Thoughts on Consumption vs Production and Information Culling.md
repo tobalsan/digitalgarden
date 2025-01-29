@@ -1,8 +1,8 @@
 ---
-{"created":"2024-09-23T18:48","dg-publish":true,"permalink":"/notes/thoughts-on-consumption-vs-production-and-information-culling/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.239+01:00"}
+{"created":"2024-09-23T18:48","dg-publish":true,"dg-path":"Thoughts on Consumption vs Production and Information Culling.md","permalink":"/thoughts-on-consumption-vs-production-and-information-culling/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.239+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Thoughts on Consumption vs. Production and Information Culling
 
 I woke up at 5 a.m. and reflected on my feelings from the weekend. I realized I've been too much of a consumer and not enough of a producer, wasting my creativity. It's time for a culling.

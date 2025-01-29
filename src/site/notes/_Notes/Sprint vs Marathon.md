@@ -1,8 +1,8 @@
 ---
-{"created":"2023-01-04T17:56:00","dg-publish":true,"permalink":"/notes/sprint-vs-marathon/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:59.243+01:00"}
+{"created":"2023-01-04T17:56:00","dg-publish":true,"dg-path":"Sprint vs Marathon.md","permalink":"/sprint-vs-marathon/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:59.243+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Sprint vs Marathon
 We tend to treat life decisions like sprints when life is really a marathon. 
 That's what makes us have bursts of efforts and then burn out.

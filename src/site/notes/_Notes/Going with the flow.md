@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:30:00","dg-publish":true,"permalink":"/notes/going-with-the-flow/","dgPassFrontmatter":true,"updated":"2025-01-19T22:12:55.733+01:00"}
+{"created":"2022-06-28T23:30:00","dg-publish":true,"dg-path":"Going with the flow.md","permalink":"/going-with-the-flow/","dgPassFrontmatter":true,"updated":"2025-01-19T22:12:55.733+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/On the process MoC\|On the process MoC]] • [[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 # Going with the flow
 ## Harness you natural drives
 Why fighting your natural inclinations? Use them at your advantage. Use motivational jiu-jitsu.
@@ -27,7 +27,7 @@ Solutions not to force against yourself:
 - Do it at a different time, when you'll be in the right [[_Notes/Mind modes\|Mind modes]].
 - Choose how you're going to do it, apply [[_Notes/Embrace constraints\|constraints]], reduce the scope,
 ## [[_Notes/Taking the time to do things well\|Take your time]]
-Going with the flow also means *not hurrying*. Doing the things just at the right pace. Doing things too fast is a sign of focusing [[_Notes/Improvement over results\|on the result]] rather than [[Resources/MoCs/On the process MoC\|the process]].
+Going with the flow also means *not hurrying*. Doing the things just at the right pace. Doing things too fast is a sign of focusing [[_Notes/Improvement over results\|on the result]] rather than [[_Notes/On the process MoC\|the process]].
 If you're in a hurry, it's precisely [[_Notes/When you should not want to be doing things\|When you should not want to be doing things]].
 
 [[_Notes/Wu-wei\|Wu-wei]].

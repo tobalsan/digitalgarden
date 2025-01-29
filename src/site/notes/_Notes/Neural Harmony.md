@@ -1,8 +1,8 @@
 ---
-{"created":"2023-02-14T14:54:00","dg-publish":true,"permalink":"/notes/neural-harmony/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:51.276+01:00"}
+{"created":"2023-02-14T14:54:00","dg-publish":true,"dg-path":"Neural Harmony.md","permalink":"/neural-harmony/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:51.276+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[_Notes/On creativity MoC\|On creativity MoC]]
 # Neural Harmony
 It is when your mind is perfectly in tune with what you're doing. When you are [[_Notes/Going with the flow\|Going with the flow]].
 When the adequate parts of your brain for the task at hand are involved while those that aren't remain at rest. 

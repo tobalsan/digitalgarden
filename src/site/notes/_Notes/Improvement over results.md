@@ -1,8 +1,8 @@
 ---
-{"created":"2022-01-18T06:00:00","dg-publish":true,"permalink":"/notes/improvement-over-results/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.312+01:00"}
+{"created":"2022-01-18T06:00:00","dg-publish":true,"dg-path":"Improvement over results.md","permalink":"/improvement-over-results/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.312+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[Resources/MoCs/On the process MoC\|On the process MoC]] 
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[_Notes/On the process MoC\|On the process MoC]] 
 # Improvement over results
 It is more [[_Notes/Effectiveness\|effective]], more productive, and more rewarding to focus on [[_Notes/Improvement over results\|making progress instead of results]]. The more complex or ambitious the result, the truer it is. 
 

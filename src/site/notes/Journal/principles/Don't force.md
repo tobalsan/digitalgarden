@@ -2,7 +2,7 @@
 {"created":"2024-12-19T15:19","dg-publish":true,"permalink":"/journal/principles/don-t-force/","dgPassFrontmatter":true,"updated":"2024-12-21T15:07:57.849+01:00"}
 ---
 
-[[ Home\| Home]]
+[[_Notes/ Home\| Home]]
 # Don't force
 Don't strain yourself doing things you don't enjoy doing.
 Don't try to be someone you're not. 

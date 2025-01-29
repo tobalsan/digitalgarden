@@ -1,8 +1,8 @@
 ---
-{"aliases":["try hard"],"dg-publish":true,"created":"2022-06-28T23:30:00","permalink":"/notes/trying-hard/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.312+01:00"}
+{"aliases":["try hard"],"dg-publish":true,"created":"2022-06-28T23:30:00","dg-path":"Trying hard.md","permalink":"/trying-hard/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.312+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Stop trying hard
 ## Most of our troubles in life come from head-butting against it or against ourselves
 

@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:19:00","dg-publish":true,"permalink":"/notes/stop-fighting-uphill-battles/","dgPassFrontmatter":true,"updated":"2025-01-19T22:28:29.968+01:00"}
+{"created":"2022-06-28T23:19:00","dg-publish":true,"dg-path":"Stop fighting uphill battles.md","permalink":"/stop-fighting-uphill-battles/","dgPassFrontmatter":true,"updated":"2025-01-19T22:28:29.968+01:00"}
 ---
 
-[[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Stop fighting uphill battles
 

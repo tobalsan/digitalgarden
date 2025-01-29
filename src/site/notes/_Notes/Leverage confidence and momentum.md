@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T22:54:00","dg-publish":true,"permalink":"/notes/leverage-confidence-and-momentum/","dgPassFrontmatter":true,"updated":"2025-01-19T22:19:50.155+01:00"}
+{"created":"2022-06-28T22:54:00","dg-publish":true,"dg-path":"Leverage confidence and momentum.md","permalink":"/leverage-confidence-and-momentum/","dgPassFrontmatter":true,"updated":"2025-01-19T22:19:50.155+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # Leverage confidence and momentum
 

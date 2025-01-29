@@ -1,8 +1,8 @@
 ---
-{"created":"2020-12-30T10:17:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/notes/several-things-we-do-backwards/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:19.329+01:00"}
+{"created":"2020-12-30T10:17:00","project":[["noobthink.com"]],"dg-publish":true,"dg-path":"Several things we do backwards.md","permalink":"/several-things-we-do-backwards/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:19.329+01:00"}
 ---
 
-[[Resources/MoCs/Things we do backwards MoC\|Things we do backwards MoC]]
+[[_Notes/Things we do backwards MoC\|Things we do backwards MoC]]
 # Several things we do backwards
 ## Thinking hard when we should trust our guts, and vice versa.
 - Ex: thinking hard about what meal to choose at the restaurant, and following our guts when making a big purchase decision or investing in stock.

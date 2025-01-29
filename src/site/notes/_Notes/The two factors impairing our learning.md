@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-01T19:29:00","dg-publish":true,"permalink":"/notes/the-two-factors-impairing-our-learning/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:14.279+01:00"}
+{"created":"2022-09-01T19:29:00","dg-publish":true,"dg-path":"The two factors impairing our learning.md","permalink":"/the-two-factors-impairing-our-learning/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:14.279+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # The two factors impairing our learning
 
 ## [[_Notes/On learning\|Learning]] is impaired by overthinking in anticipation, and moving on too quickly

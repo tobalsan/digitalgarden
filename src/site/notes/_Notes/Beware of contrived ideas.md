@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/beware-of-contrived-ideas/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:46.286+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"dg-path":"Beware of contrived ideas.md","permalink":"/beware-of-contrived-ideas/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:46.286+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Beware of contrived ideas
 I surmise that any idea coming up after more than 30 seconds of thinking, i.e. not spontaneous ideas, is contrived, too complicated, far-fetched... In other words, bad. 
 Spontaneity beats trying hard.

@@ -1,8 +1,8 @@
 ---
-{"created":202411160856,"dg-publish":true,"permalink":"/notes/iteration-over-small-samples-and-recursive-improvement/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:12.249+01:00"}
+{"created":202411160856,"dg-publish":true,"dg-path":"Iteration over small samples and recursive improvement.md","permalink":"/iteration-over-small-samples-and-recursive-improvement/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:12.249+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Iteration over small samples and recursive improvement
 
 I wasted so much time aiming for a goal and looking at the onset for a solution that works over either a long period of time or a large sample, or both. In both case you have a to wait a long time before you can assess whether you have found a solution or not, and it's improbable that you stumble on the right solution on the first try.

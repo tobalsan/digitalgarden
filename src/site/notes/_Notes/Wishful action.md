@@ -1,8 +1,8 @@
 ---
-{"created":"2023-01-15T14:56:00","dg-publish":true,"permalink":"/notes/wishful-action/","dgPassFrontmatter":true,"updated":"2025-01-19T22:12:56.084+01:00"}
+{"created":"2023-01-15T14:56:00","dg-publish":true,"dg-path":"Wishful action.md","permalink":"/wishful-action/","dgPassFrontmatter":true,"updated":"2025-01-19T22:12:56.084+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 # Wishful action
 Want do = doesn't exist. It's bullshit. 
 It's either do, or do not, but want do is do not disguised in do. It's mental masturbation. Everlasting fantasy. *Wishful thinking*. 

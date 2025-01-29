@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-16T11:09:00","dg-publish":true,"permalink":"/notes/beware-of-demanding-to-be-fed-with-answers/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:05.246+01:00"}
+{"created":"2022-06-16T11:09:00","dg-publish":true,"dg-path":"Beware of demanding to be fed with answers.md","permalink":"/beware-of-demanding-to-be-fed-with-answers/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:05.246+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Beware of demanding to be fed with answers
 The most interesting—and useful—discoveries are those you find yourself
 

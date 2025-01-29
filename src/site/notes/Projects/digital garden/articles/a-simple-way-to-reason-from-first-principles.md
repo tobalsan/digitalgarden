@@ -1,5 +1,5 @@
 ---
-{"title":"A simple way to reason from First Principles","slug":"a-simple-way-to-reason-from-first-principles","created":"2022-10-21T07:28:32.000Z","updated":"2024-12-07T19:25:14.386+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/a-simple-way-to-reason-from-first-principles/","dgPassFrontmatter":true}
+{"title":"A simple way to reason from First Principles","slug":"a-simple-way-to-reason-from-first-principles","created":"2022-10-21T07:28:32.000Z","updated":"2024-12-07T19:25:14.386+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"dg-path":"a-simple-way-to-reason-from-first-principles.md","permalink":"/a-simple-way-to-reason-from-first-principles/","dgPassFrontmatter":true}
 ---
 
 # A simple way to reason from First Principles

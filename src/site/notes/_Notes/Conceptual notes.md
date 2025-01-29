@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-29T01:42:00","dg-publish":true,"permalink":"/notes/conceptual-notes/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:17.264+01:00"}
+{"created":"2022-06-29T01:42:00","dg-publish":true,"dg-path":"Conceptual notes.md","permalink":"/conceptual-notes/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:17.264+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]] • [[Resources/MoCs/Note-taking MoC\|Note-taking MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]] • [[_Notes/Note-taking MoC\|Note-taking MoC]]
 # Conceptual notes
 A better way than taking sequential notes—which is the way we're usually taught at school—is to take conceptual notes.
 

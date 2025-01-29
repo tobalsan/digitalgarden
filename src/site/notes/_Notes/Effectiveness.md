@@ -1,8 +1,8 @@
 ---
-{"aliases":"How to be effective","created":"2023-01-05T10:14:00","dg-publish":true,"permalink":"/notes/effectiveness/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:11.257+01:00"}
+{"aliases":"How to be effective","created":"2023-01-05T10:14:00","dg-publish":true,"dg-path":"Effectiveness.md","permalink":"/effectiveness/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:11.257+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Effectiveness
 If you are constantly rushing through life, it's probably because you feel [[_Notes/Your time on earth is limited\|Time is scarce]]. But this denotes a lack of effectiveness, because if you're effective, you have all the time in the world. And there's no need to rush if you have time.
 

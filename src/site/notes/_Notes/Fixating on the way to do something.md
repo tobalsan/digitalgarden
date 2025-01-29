@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T22:54:00","dg-publish":true,"permalink":"/notes/fixating-on-the-way-to-do-something/","dgPassFrontmatter":true,"updated":"2025-01-19T22:20:18.675+01:00"}
+{"created":"2022-06-28T22:54:00","dg-publish":true,"dg-path":"Fixating on the way to do something.md","permalink":"/fixating-on-the-way-to-do-something/","dgPassFrontmatter":true,"updated":"2025-01-19T22:20:18.675+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # Fixating on the way to do something
 

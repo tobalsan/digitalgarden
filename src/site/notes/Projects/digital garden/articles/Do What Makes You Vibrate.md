@@ -1,8 +1,8 @@
 ---
-{"created":"2022-07-30T17:14:00","dg-publish":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/do-what-makes-you-vibrate/","dgPassFrontmatter":true,"updated":"2024-12-21T16:51:57.541+01:00"}
+{"created":"2022-07-30T17:14:00","dg-publish":true,"project":["[[noobthink.com]]"],"dg-path":"Do What Makes You Vibrate.md","permalink":"/do-what-makes-you-vibrate/","dgPassFrontmatter":true,"updated":"2024-12-21T16:51:57.541+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]] • [[_Notes/On the process MoC\|On the process MoC]]
 # Do What Makes You Vibrate
 I've been chasing dreams for so long. But the best things I accomplished in my life always seemed to be the ones I approached on the side, almost inadvertently. Why is that?
 

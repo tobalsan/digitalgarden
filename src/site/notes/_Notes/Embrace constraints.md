@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/embrace-constraints/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:10.274+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"dg-path":"Embrace constraints.md","permalink":"/embrace-constraints/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:10.274+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Rebuke restraints, embrace constraints.
 Creativity requires to move from the beaten path, to ignore the dogma. Too few options will hinder your creativity. But too much options, too much freedom will burden you as you'll be paralyzed with infinite choices.
 Too much freedom is paralyzing. Paradoxically, rules, constraints, they enable us to get started learning, and make progress, by limiting the possibilities and preventing us from feeling overwhelmed.

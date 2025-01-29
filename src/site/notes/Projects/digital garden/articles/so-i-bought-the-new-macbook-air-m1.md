@@ -1,5 +1,5 @@
 ---
-{"title":"So I Bought The New MacBook Air M1","slug":"so-i-bought-the-new-macbook-air-m1","created":"2020-12-20T13:10:48.000Z","updated":"2024-12-07T19:25:14.399+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/so-i-bought-the-new-macbook-air-m1/","dgPassFrontmatter":true}
+{"title":"So I Bought The New MacBook Air M1","slug":"so-i-bought-the-new-macbook-air-m1","created":"2020-12-20T13:10:48.000Z","updated":"2024-12-07T19:25:14.399+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"dg-path":"so-i-bought-the-new-macbook-air-m1.md","permalink":"/so-i-bought-the-new-macbook-air-m1/","dgPassFrontmatter":true}
 ---
 
 # So I Bought The New MacBook Air M1

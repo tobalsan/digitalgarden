@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/to-keep-going-you-must-do-what-is-fun-and-enjoyable/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:53.257+01:00"}
+{"created":"2022-06-28T12:32:00","dg-publish":true,"dg-path":"To keep going, you must do what is fun and enjoyable.md","permalink":"/to-keep-going-you-must-do-what-is-fun-and-enjoyable/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:53.257+01:00"}
 ---
 
-[[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # To keep going, you must do what is fun and enjoyable
 What makes thinks fun and enjoyable? Discovery, Challenge, and Progress.
 - Discovery: follow your curiosity. Do things for the sake of doing them, not an ulterior reward.

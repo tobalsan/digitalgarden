@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-11T12:21:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/notes/why-you-are-full-of-ideas-and-drive-at-night/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.252+01:00"}
+{"created":"2022-09-11T12:21:00","project":[["noobthink.com"]],"dg-publish":true,"dg-path":"Why you are full of ideas and drive at night.md","permalink":"/why-you-are-full-of-ideas-and-drive-at-night/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.252+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Why you are full of ideas and drive at night
 Do you sometimes lay in bed at night with your mind in ebullition, feeling absolutely not sleepy because you suddenly have so many ideas and you want to do so many things? Why does it always happen at night and not during the day? During the day everything wanes, you're tired and have no motivation. Why is that? Does it mean your chronotype is that of a night owl? 
 

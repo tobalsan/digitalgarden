@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:16:00","dg-publish":true,"permalink":"/notes/thinking-in-bets/","dgPassFrontmatter":true,"updated":"2025-01-19T22:29:15.223+01:00"}
+{"created":"2022-06-28T23:16:00","dg-publish":true,"dg-path":"Thinking in bets.md","permalink":"/thinking-in-bets/","dgPassFrontmatter":true,"updated":"2025-01-19T22:29:15.223+01:00"}
 ---
 
-[[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Thinking in bets
 Put yourself in situations where you're at an advantage. Play games you're likely to win. Engage when you have an edge, when the odds are in your favour. **Be the casino, not the gambler**.

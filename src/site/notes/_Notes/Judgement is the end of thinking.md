@@ -1,11 +1,11 @@
 ---
-{"created":202410071846,"dg-publish":true,"permalink":"/notes/judgement-is-the-end-of-thinking/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:06.275+01:00"}
+{"created":202410071846,"dg-publish":true,"dg-path":"Judgement is the end of thinking.md","permalink":"/judgement-is-the-end-of-thinking/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:06.275+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Judgement is the end of thinking.
 
-Isn't it funny how it'seasy to start mulling over unimportant stuff, but when it comes to exercise critical thinking about our experiences in life, we tend to jump to conclusions? Why is that? Maybe it's an ego thing. Another thing [[Resources/MoCs/Things we do backwards MoC\|we do usually do backward]].
+Isn't it funny how it'seasy to start mulling over unimportant stuff, but when it comes to exercise critical thinking about our experiences in life, we tend to jump to conclusions? Why is that? Maybe it's an ego thing. Another thing [[_Notes/Things we do backwards MoC\|we do usually do backward]].
 Any way, as soon as you pass judgement, it signifies the end of the thinking process. You made up your mind, and no further questioning occurs about whatever you judged. 
 So, if it's the first thing you do, isn't a bit too bad that you didn't give a second thought? When you don't even question yourself for a second about another person or an experience you just had— or are having—what is it costing you? If you start with the end, you never give yourself the chance to fully live life's experiences, and never give them the chance to bloom and create something meaningful. 
 

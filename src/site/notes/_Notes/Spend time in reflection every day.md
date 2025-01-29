@@ -1,8 +1,8 @@
 ---
-{"created":"2022-07-30T18:07:00","dg-publish":true,"permalink":"/notes/spend-time-in-reflection-every-day/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:05.246+01:00"}
+{"created":"2022-07-30T18:07:00","dg-publish":true,"dg-path":"Spend time in reflection every day.md","permalink":"/spend-time-in-reflection-every-day/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:05.246+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Spend time in reflection every day
 Once you improved your capacity to focus, it's time to practice reflecting on your life. 
 As trite as it may sound, you have to know yourself. If you want to be able to live your life fully, you must know your principles, your values, and what makes you tick. And above all, abide by them.

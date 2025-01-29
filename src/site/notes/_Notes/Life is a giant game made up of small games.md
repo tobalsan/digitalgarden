@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:12:00","dg-publish":true,"permalink":"/notes/life-is-a-giant-game-made-up-of-small-games/","dgPassFrontmatter":true,"updated":"2025-01-19T22:24:19.245+01:00"}
+{"created":"2022-06-28T23:12:00","dg-publish":true,"dg-path":"Life is a giant game made up of small games.md","permalink":"/life-is-a-giant-game-made-up-of-small-games/","dgPassFrontmatter":true,"updated":"2025-01-19T22:24:19.245+01:00"}
 ---
 
-[[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Life is a giant game made up of small games
 Trade hope for enjoyment and understanding. Hope is a result of taking life too seriously. You're attached to an outcome. It's when you're attached to a specific outcome that you're likely to stubbornly keep doing the same thing, head-butting against a brick wall. 

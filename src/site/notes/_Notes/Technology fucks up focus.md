@@ -1,8 +1,8 @@
 ---
-{"created":"2022-07-29T18:33:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/notes/technology-fucks-up-focus/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:04.270+01:00"}
+{"created":"2022-07-29T18:33:00","project":[["noobthink.com"]],"dg-publish":true,"dg-path":"Technology fucks up focus.md","permalink":"/technology-fucks-up-focus/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:04.270+01:00"}
 ---
 
-[[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Technology fucks up focus
 [[_Notes/On focus\|Focus]], the power of concentration, is arguably one of the most important requirements to live a fulfilling life.
 It is nothing less than the control of one’s mind. 

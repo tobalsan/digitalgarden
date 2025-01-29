@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:12:00","dg-publish":true,"permalink":"/notes/love-what-you-do/","dgPassFrontmatter":true,"updated":"2025-01-19T22:26:00.101+01:00"}
+{"created":"2022-06-28T23:12:00","dg-publish":true,"dg-path":"Love what you do.md","permalink":"/love-what-you-do/","dgPassFrontmatter":true,"updated":"2025-01-19T22:26:00.101+01:00"}
 ---
 
-[[Resources/MoCs/Success and Hope MoC\|Success and Hope MoC]]
+[[_Notes/Success and Hope MoC\|Success and Hope MoC]]
 
 # Love what you do 
 There is no secret, magic shortcut that makes anything worthwhile doing easy.
@@ -26,7 +26,7 @@ You want to achieve something, and you know consistency is the way to go. Why wo
 Whether it's way you do it, the conditions in which you do it, the time or place or both, the environment, the duration, there is always a way to make the process enjoyable. Steve Jobs said it best:
 > Love what you do.
 
-Not *do what you love*. Love what you do. Focus entirely on the task at hand, don't wish to be somehwere else, don't wish to be quickly done with it. [[_Notes/Taking the time to do things well\|Take your time]], [[Resources/MoCs/On the process MoC\|focus on the process]]. 
+Not *do what you love*. Love what you do. Focus entirely on the task at hand, don't wish to be somehwere else, don't wish to be quickly done with it. [[_Notes/Taking the time to do things well\|Take your time]], [[_Notes/On the process MoC\|focus on the process]]. 
 Don't over do it. Don't burn out. Be an [[infinite player\|infinite player]] playing an infinte game. The goal is not to finish the game but to keep playing it. 
 Go slower.
 Do less.

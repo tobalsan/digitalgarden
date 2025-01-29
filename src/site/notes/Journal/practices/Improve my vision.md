@@ -2,7 +2,7 @@
 {"created":"2023-06-30T08:21:00","dg-publish":true,"permalink":"/journal/practices/improve-my-vision/","dgPassFrontmatter":true,"updated":"2024-12-21T15:17:01.822+01:00"}
 ---
 
-[[Resources/MoCs/Practices MoC\|Practices MoC]]
+[[_Notes/Practices MoC\|Practices MoC]]
 # Improving my vision
 - 2023-06-30 08:22
 	- ## First step: get rid of blur adaptation for my right eye

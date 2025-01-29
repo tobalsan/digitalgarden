@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/problems-and-struggle-contain-the-seed-of-growth/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.241+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"dg-path":"Problems and struggle contain the seed of growth.md","permalink":"/problems-and-struggle-contain-the-seed-of-growth/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.241+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Problems and struggle contain the seed of growth
 Creativity comes from struggling with problems. Contrived, "what would be cool" ideas don't move the needle. [[_Notes/Beware of contrived ideas\|Beware of contrived ideas]]
 It's the ones that come from struggling with real life situations.

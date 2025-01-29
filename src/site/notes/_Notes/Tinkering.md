@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:30:00","dg-publish":true,"permalink":"/notes/tinkering/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:58.274+01:00"}
+{"created":"2022-06-28T23:30:00","dg-publish":true,"dg-path":"Tinkering.md","permalink":"/tinkering/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:58.274+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Tinkering
 
 ## Tinkering = making mistakes while going for novelty. 

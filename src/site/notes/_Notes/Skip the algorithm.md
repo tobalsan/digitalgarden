@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/skip-the-algorithm/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:01.341+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"dg-path":"Skip the algorithm.md","permalink":"/skip-the-algorithm/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:01.341+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]] • [[Resources/MoCs/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]] • [[_Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Skip the algorithm
 Maybe at the beginning of internet, up until 2005, it made sense to browse stuff randomly and haphazardly, because content was scarce and that was better for serendipity. 
 

@@ -1,8 +1,8 @@
 ---
-{"created":"2022-07-18T22:19:00","dg-publish":true,"permalink":"/notes/forget-goals-pull-threads/","dgPassFrontmatter":true,"updated":"2025-01-19T22:21:48.813+01:00"}
+{"created":"2022-07-18T22:19:00","dg-publish":true,"dg-path":"Forget goals, pull threads.md","permalink":"/forget-goals-pull-threads/","dgPassFrontmatter":true,"updated":"2025-01-19T22:21:48.813+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # Forget goals, pull threads
 Life (mostly) [[_Notes/Fixating on the way to do something\|does not occur by goals]]. Anything that's not trivial rarely gets reached by a carefully crafted plan. Life unravels like a thread. You have to [[_Notes/Stop trying hard to make friends\|Stop trying hard to make friends]] and [[_Notes/Try other angles\|Try other angles]].

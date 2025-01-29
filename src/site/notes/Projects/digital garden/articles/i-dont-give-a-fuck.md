@@ -1,5 +1,5 @@
 ---
-{"title":"I don't give a fuck (and neither should you)","slug":"i-dont-give-a-fuck","created":"2020-04-30T09:00:00.000Z","updated":"2024-12-24T15:47:32.980+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"permalink":"/projects/digital-garden/articles/i-dont-give-a-fuck/","dgPassFrontmatter":true}
+{"title":"I don't give a fuck (and neither should you)","slug":"i-dont-give-a-fuck","created":"2020-04-30T09:00:00.000Z","updated":"2024-12-24T15:47:32.980+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"dg-path":"i-dont-give-a-fuck.md","permalink":"/i-dont-give-a-fuck/","dgPassFrontmatter":true}
 ---
 
 # I don't give a fuck (and neither should you)

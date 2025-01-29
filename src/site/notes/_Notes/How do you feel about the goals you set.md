@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T22:54:00","dg-publish":true,"permalink":"/notes/how-do-you-feel-about-the-goals-you-set/","dgPassFrontmatter":true,"updated":"2025-01-19T22:21:21.428+01:00"}
+{"created":"2022-06-28T22:54:00","dg-publish":true,"dg-path":"How do you feel about the goals you set.md","permalink":"/how-do-you-feel-about-the-goals-you-set/","dgPassFrontmatter":true,"updated":"2025-01-19T22:21:21.428+01:00"}
 ---
 
-[[Resources/MoCs/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
+[[_Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]]
 
 # How do you feel about the goals you set in your mind
 I keep reading either you're supposed to set clear goals and focus on them, or let go of objectives altogether, not trying, and be effortless.  Well, maybe the two aren't incompatible. They're not opposite sides of which you have to pick one.

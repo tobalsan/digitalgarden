@@ -1,8 +1,8 @@
 ---
-{"created":"2022-09-13T11:58:00","dg-publish":true,"permalink":"/notes/balance-your-effort-with-enjoyment/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.242+01:00"}
+{"created":"2022-09-13T11:58:00","dg-publish":true,"dg-path":"Balance your effort with enjoyment.md","permalink":"/balance-your-effort-with-enjoyment/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.242+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On the process MoC\|On the process MoC]] • [[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # Balance your effort with enjoyment
 You wrote a 3,000 killer article with curated images and crazy value. It took you a whole week to put this up. You hit publish and... crickets.
 You feel angst, disgust, and frustration as if you've just been betrayed by the whole world. If you're particularly tenacious, you might do it a couple other times, but you inevitably give up after a while because it seems that it wasn't your calling after all. Or was it? 
@@ -27,5 +27,5 @@ Make efforts as much as needed for you to keep enjoying what you do, regardless 
 We often burn ourselves out trying to accomplish too much, too quick. [[_Notes/A little every day\|A little every day]] beats a ton just once.
 Let any unexpected outcome be the icing on the cake and bring you even more enjoyment. But avoid at all cost overdoing things, being miserable making untenable efforts just because you hope for a result. This will only remove the pleasure from the activity and make you avoid it in the future.
 
-[[Curiosity\|Curiosity]] first, then mastery, [[Resources/MoCs/On the process MoC\|focus on the process]], and joy always. Remember that [[_Notes/Things get accomplished by iteration\|Things get accomplished by iteration]].
+[[Curiosity\|Curiosity]] first, then mastery, [[_Notes/On the process MoC\|focus on the process]], and joy always. Remember that [[_Notes/Things get accomplished by iteration\|Things get accomplished by iteration]].
 No end goal is worth pursuing if you’re miserable along the way. As matter of fact, *end goals* are not pursued, they’re *byproducts*, the result of pursuing **never-ending goals**.

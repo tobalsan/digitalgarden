@@ -1,8 +1,8 @@
 ---
-{"created":202410041004,"dg-publish":true,"permalink":"/notes/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:19.338+01:00"}
+{"created":202410041004,"dg-publish":true,"dg-path":"Be specific, or be mediocre.md","permalink":"/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:19.338+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Be Specific, or Be Mediocre
 Or even dead. Remember Buridan's Donkey.
 Wanting the best without being specific leads to mediocrity.

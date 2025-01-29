@@ -1,8 +1,8 @@
 ---
-{"created":"2922-06-28T12:59:00","dg-publish":true,"permalink":"/notes/how-the-humain-brain-works/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.240+01:00"}
+{"created":"2922-06-28T12:59:00","dg-publish":true,"dg-path":"How the humain brain works.md","permalink":"/how-the-humain-brain-works/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.240+01:00"}
 ---
 
- [[Resources/MoCs/On creativity MoC\|On creativity MoC]] • [[Resources/MoCs/Note-taking MoC\|Note-taking MoC]]
+ [[_Notes/On creativity MoC\|On creativity MoC]] • [[_Notes/Note-taking MoC\|Note-taking MoC]]
 # How the humain brain works
 ## Associations, connections, and links
 The mind, as does the world, works by association, links and connections.

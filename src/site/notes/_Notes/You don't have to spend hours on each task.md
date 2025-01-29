@@ -1,8 +1,8 @@
 ---
-{"aliases":"snacking","created":"2022-08-09T11:32:00","dg-publish":true,"permalink":"/notes/you-don-t-have-to-spend-hours-on-each-task/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:14.284+01:00"}
+{"aliases":"snacking","created":"2022-08-09T11:32:00","dg-publish":true,"dg-path":"You don't have to spend hours on each task.md","permalink":"/you-don-t-have-to-spend-hours-on-each-task/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:14.284+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # You don't have to spend hours on each task
 Snacking is the concept of eating quickly without any commitment on duration or type of food. You just eat what you can when you can.
 While this is not too good for a diet, why is it only applied to food? This very concept can be a healthy one when ported to creative work.

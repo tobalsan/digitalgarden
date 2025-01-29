@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/making-art/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:45.291+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"dg-path":"Making art.md","permalink":"/making-art/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:45.291+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Making art
 Society rewards artists who satisfy the market. 
 Being an artist means embracing who you are, and creating as an expression of yourself

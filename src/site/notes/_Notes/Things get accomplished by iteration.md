@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T23:30:00","dg-publish":true,"permalink":"/notes/things-get-accomplished-by-iteration/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:55.332+01:00"}
+{"created":"2022-06-28T23:30:00","dg-publish":true,"dg-path":"Things get accomplished by iteration.md","permalink":"/things-get-accomplished-by-iteration/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:55.332+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # Things get accomplished by iteration
 Habits, repetition, process. Going over what you do and refine. 
 But:

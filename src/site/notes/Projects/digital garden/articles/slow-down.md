@@ -1,5 +1,5 @@
 ---
-{"title":"Slow down","slug":"slow-down","created":"2023-04-11T15:58:56.000Z","updated":"2024-12-24T15:47:29.258+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"excerpt":"Often, the faster you try to go, the slower you get. Try the opposite: slow down.","permalink":"/projects/digital-garden/articles/slow-down/","dgPassFrontmatter":true}
+{"title":"Slow down","slug":"slow-down","created":"2023-04-11T15:58:56.000Z","updated":"2024-12-24T15:47:29.258+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":[],"excerpt":"Often, the faster you try to go, the slower you get. Try the opposite: slow down.","dg-path":"slow-down.md","permalink":"/slow-down/","dgPassFrontmatter":true}
 ---
 
 # Slow Down

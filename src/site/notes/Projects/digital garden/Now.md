@@ -1,5 +1,5 @@
 ---
-{"title":"Now","slug":"now","created":"2020-12-20T07:34:29.000Z","updated":"2024-09-22T20:04:10.938+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":3,"permalink":"/projects/digital-garden/now/","dgPassFrontmatter":true}
+{"title":"Now","slug":"now","created":"2020-12-20T07:34:29.000Z","updated":"2024-09-22T20:04:10.938+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":3,"dg-path":"digital garden/Now.md","permalink":"/digital-garden/now/","dgPassFrontmatter":true}
 ---
 
 

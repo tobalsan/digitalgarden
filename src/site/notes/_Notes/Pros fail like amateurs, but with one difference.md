@@ -1,5 +1,5 @@
 ---
-{"created":"2022-09-09T11:20:00","dg-publish":true,"permalink":"/notes/pros-fail-like-amateurs-but-with-one-difference/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:09.249+01:00"}
+{"created":"2022-09-09T11:20:00","dg-publish":true,"dg-path":"Pros fail like amateurs, but with one difference.md","permalink":"/pros-fail-like-amateurs-but-with-one-difference/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:09.249+01:00"}
 ---
 
 # Pros fail like amateurs, but with one difference

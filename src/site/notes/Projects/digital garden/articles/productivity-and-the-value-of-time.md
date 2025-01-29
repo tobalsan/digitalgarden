@@ -1,5 +1,5 @@
 ---
-{"title":"Productivity is linked directly to how you value your time","slug":"productivity-and-the-value-of-time","created":"2023-02-11T10:14:18.000Z","updated":"2024-12-07T19:25:14.386+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"permalink":"/projects/digital-garden/articles/productivity-and-the-value-of-time/","dgPassFrontmatter":true}
+{"title":"Productivity is linked directly to how you value your time","slug":"productivity-and-the-value-of-time","created":"2023-02-11T10:14:18.000Z","updated":"2024-12-07T19:25:14.386+01:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"dg-path":"productivity-and-the-value-of-time.md","permalink":"/productivity-and-the-value-of-time/","dgPassFrontmatter":true}
 ---
 
 # Productivity is linked directly to how you value your time

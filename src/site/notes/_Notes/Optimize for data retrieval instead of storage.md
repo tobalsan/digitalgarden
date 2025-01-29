@@ -1,8 +1,8 @@
 ---
-{"created":"2023-05-10T15:27:00","project":["[[noobthink.com]]"],"status":["published"],"dg-publish":true,"type":["essay"],"permalink":"/notes/optimize-for-data-retrieval-instead-of-storage/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.238+01:00"}
+{"created":"2023-05-10T15:27:00","project":["[[noobthink.com]]"],"status":["published"],"dg-publish":true,"type":["essay"],"dg-path":"Optimize for data retrieval instead of storage.md","permalink":"/optimize-for-data-retrieval-instead-of-storage/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.238+01:00"}
 ---
 
-[[Resources/MoCs/Note-taking MoC\|Note-taking MoC]]
+[[_Notes/Note-taking MoC\|Note-taking MoC]]
 
 # Optimize for data retrieval instead of storage
 ## Ditch the tags

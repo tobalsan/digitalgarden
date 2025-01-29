@@ -1,12 +1,12 @@
 ---
-{"created":"2022-09-15T15:49:00","dg-publish":true,"permalink":"/notes/inspiration-needs-expiration/","dgPassFrontmatter":true,"updated":"2024-12-26T05:19:34.672+01:00"}
+{"created":"2022-09-15T15:49:00","dg-publish":true,"dg-path":"Inspiration needs expiration.md","permalink":"/inspiration-needs-expiration/","dgPassFrontmatter":true,"updated":"2024-12-26T05:19:34.672+01:00"}
 ---
 
-[[Resources/MoCs/On creativity MoC\|On creativity MoC]]
+[[_Notes/On creativity MoC\|On creativity MoC]]
 # Inspiration needs expiration
 I kept looking for inspiration over the last years. I kept breathing in, breathing in, breathing in. But so rarely ever I breathed out. 
 Is it why I often burnt out? Many times I felt distressed by my inability to create anything worthwhile. It looks a lot like I've been breathing in too much and forgot to breathe out. 
-**Inspiration is not just passively consuming information, but digesting this information and [[Resources/MoCs/Taking Action MoC\|Taking Action MoC]] upon it, applying in your life, work, and art.**
+**Inspiration is not just passively consuming information, but digesting this information and [[_Notes/Taking Action MoC\|Taking Action MoC]] upon it, applying in your life, work, and art.**
 If all you do is consume without creating, you're not getting inspiration.
 ## Consumption and creation
 Consumption and creation are akin to yin and yang. They feed on each other, but the more time you spend on consuming, the less you spend time creating (and vice versa).

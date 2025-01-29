@@ -1,5 +1,5 @@
 ---
-{"created":"2022-09-26T14:13:00","dg-publish":true,"permalink":"/notes/there-is-a-time-for-thinking-and-a-time-for-doing/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.313+01:00"}
+{"created":"2022-09-26T14:13:00","dg-publish":true,"dg-path":"There is a time for thinking and a time for doing.md","permalink":"/there-is-a-time-for-thinking-and-a-time-for-doing/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:07.313+01:00"}
 ---
 
 # There is a time for thinking and a time for doing
@@ -10,7 +10,7 @@ How often have I found myself in front of my computer, a bunch of windows opened
 Thinking—and reflecting—will help you assess if your actions are aligned with your values, and truly understand why you are doing things. It will help you remember why exactly you are doing things, and keep [[_Notes/Align with reality\|your expectations aligned with reality]].
 
 Then, when it's time to act, switch gears. It's not the time to think hard anymore. Let the momentum build and flow with it. Thinking while in the action will only bring doubt, second-guessing, and paralysis by analysis.
-**When you decide to act, do it in a steady, deliberate way. [[_Notes/Taking the time to do things well\|Take your time]], going slowly to [[Resources/MoCs/On the process MoC\|focus on the process]].** Surrender to the action.
+**When you decide to act, do it in a steady, deliberate way. [[_Notes/Taking the time to do things well\|Take your time]], going slowly to [[_Notes/On the process MoC\|focus on the process]].** Surrender to the action.
 
 Finally, *after* having taken action, spend some more time on reflection. 
 In essence, [[_Notes/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]].

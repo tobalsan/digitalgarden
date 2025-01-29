@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"type":["essay"],"created":"2022-08-05T20:32:00","permalink":"/notes/complexity-cancels-motivation/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:11.255+01:00"}
+{"dg-publish":true,"type":["essay"],"created":"2022-08-05T20:32:00","dg-path":"Complexity cancels motivation.md","permalink":"/complexity-cancels-motivation/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:11.255+01:00"}
 ---
 
-[[Resources/MoCs/Simplify MoC\|Simplify MoC]]
+[[_Notes/Simplify MoC\|Simplify MoC]]
 # Complexity cancels motivation
 When you starting mulling around a subject, it's too easy to forget about simplicity and make everything complex for nothing.
 What happens next is you start feeling anxious and unmotivated by any task,project, or idea. When you make a mountain of a molehill, everything feels laborious. Everything feels difficult, and demotivating..

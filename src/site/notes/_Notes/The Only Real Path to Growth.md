@@ -1,8 +1,8 @@
 ---
-{"created":"2024-12-15T17:04","dg-publish":true,"permalink":"/notes/the-only-real-path-to-growth/","dgPassFrontmatter":true,"updated":"2025-01-13T07:22:41.313+01:00"}
+{"created":"2024-12-15T17:04","dg-publish":true,"dg-path":"The Only Real Path to Growth.md","permalink":"/the-only-real-path-to-growth/","dgPassFrontmatter":true,"updated":"2025-01-13T07:22:41.313+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]]
+[[_Notes/On the process MoC\|On the process MoC]]
 # The Only Real Path to Growth: Practical Expectations One Tweak  At A Time
 For the longest time, I’ve been either making slow progress or stagnating—almost two decades. And I attribute this to one simple thing: ignoring the concept of small improvement, becoming a better version of yourself one tweak at a time.
 

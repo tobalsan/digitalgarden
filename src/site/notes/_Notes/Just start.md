@@ -1,8 +1,8 @@
 ---
-{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/just-start/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:03.249+01:00"}
+{"created":"2022-06-28T12:32:00","dg-publish":true,"dg-path":"Just start.md","permalink":"/just-start/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:03.249+01:00"}
 ---
 
-[[Resources/MoCs/On the process MoC\|On the process MoC]] • [[Resources/MoCs/On motivation and getting started MoC\|On motivation and getting started MoC]]
+[[_Notes/On the process MoC\|On the process MoC]] • [[_Notes/On motivation and getting started MoC\|On motivation and getting started MoC]]
 # Just start
 You saw a movie, heard a music, read a book and now you want to do it to. You sit down and want to write a movie script. Or write a hit song. No, it doesn't work like that.
 
