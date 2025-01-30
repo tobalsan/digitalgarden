@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["hide-properties","hide-backlinks"],"dg-publish":true,"dg-home":true,"dg-footer":true,"dg-footer-position":1,"dg-path":" Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-01-26T19:19:30.451+01:00"}
+{"cssclasses":["hide-properties","hide-backlinks"],"dg-publish":true,"slug":"home","dg-path":" Home.md","permalink":"/home/","dgPassFrontmatter":true,"updated":"2025-01-30T21:47:36.592+01:00"}
 ---
 
 ```home
@@ -10,7 +10,7 @@ week: true
   [[_Notes/Projects MoC\|Projects MoC]] • [[_Notes/Trading MoC\|Trading MoC]]
 
 ## :LiCalendarDays: Daily life
- [[_Notes/People MoC\|People MoC]] • [[Projects/Routines\|Routines]] • [[_Notes/Habits MoC\|Habits MoC]] • [[_Notes/Practices MoC\|Practices MoC]]
+ [[_Notes/People MoC\|People MoC]] • [[Journal/Routines\|Routines]] • [[_Notes/Habits MoC\|Habits MoC]] • [[_Notes/Practices MoC\|Practices MoC]]
 
 [[Journal/entries/2. Weekly Notes/2024/2024-W33#9 58\|Key Principles I wrote in August 2024]]
  
