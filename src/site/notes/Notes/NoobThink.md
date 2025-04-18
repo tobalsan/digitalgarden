@@ -1,5 +1,5 @@
 ---
-{"created":"2025-01-30T21:48","dg-publish":true,"dg-home":true,"dg-footer":true,"tags":["page","gardenEntry"],"permalink":"/notes/noob-think/","dgPassFrontmatter":true,"updated":"2025-04-18T15:51:19.042+02:00"}
+{"created":"2025-01-30T21:48","dg-publish":true,"dg-home":true,"dg-footer":true,"tags":["page","gardenEntry"],"dg-footer-position":1,"permalink":"/notes/noob-think/","dgPassFrontmatter":true,"updated":"2025-04-18T16:11:01.864+02:00"}
 ---
 
 Welcome to NoobThink. 
