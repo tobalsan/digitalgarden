@@ -1,5 +1,5 @@
 ---
-{"title":"Why we use n-1 instead of n when calculating variance","dg-permalink":"why-do-we-use-n1-instead-of-n-when-calculating-variance","project":[["noobthink.com"]],"created":"2025-05-04T11:49","dg-publish":true,"tags":["article"],"permalink":"/why-do-we-use-n1-instead-of-n-when-calculating-variance/","dgPassFrontmatter":true,"updated":"2025-05-04T12:34:33.256+02:00"}
+{"title":"Why we use n-1 instead of n when calculating variance","dg-permalink":"why-do-we-use-n1-instead-of-n-when-calculating-variance","project":[["noobthink.com"]],"created":"2025-05-04T11:49","dg-publish":true,"tags":["article"],"permalink":"/why-do-we-use-n1-instead-of-n-when-calculating-variance/","dgPassFrontmatter":true,"updated":"2025-05-04T12:49:06.278+02:00"}
 ---
 
 # Why We Use n-1 Instead of n When Calculating Variance
@@ -25,9 +25,8 @@ Sample mean = 60. Deviations: -10, 0, +10. Squared: 100, 0, 100.
 If you divide by $n$ (3):  
 $$\text{Variance} = \frac{100 + 0 + 100}{3} \approx 66.67 $$
 
-But this represents only the variance for your sample, i.e. three friends. In reality, say the total population is the entire school. There may be a kid with 40 cards, another with 85 cards.
-Inevitably the *real* variance will be bigger. 
-But the **true population variance** (if you could measure everyone) will always be higher. In this case, if you add the two other kids:
+But this represents only the variance for your sample, i.e. three friends. In reality, say the total population is the entire school. There may be a kid with 40 cards, another with 75 cards.
+Inevitably, the **true population variance** (if you could measure everyone) will always be higher. In this case, if you add the two other kids:
 
 Deviations: -20, -10, 0, +10, +15. Squared: 400, 100, 0, 100, 225.
 $$\text{Variance} = \frac{400+100+0+100+225}{5} = 165$$
