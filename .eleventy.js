@@ -538,7 +538,7 @@ module.exports = function (eleventyConfig) {
       return "";
     }
   });
-
+  
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
   });
@@ -557,13 +557,6 @@ module.exports = function (eleventyConfig) {
       closingSingleTag: "slash",
       singleTags: ["link"],
     },
-  });
-
-
-  eleventyConfig.addCollection("footerPages", function (collectionApi) {
-    return collectionApi.getAll().filter(function (item) {
-      return item.data["dg-footer"] === true;
-    });
   });
 
   userEleventySetup(eleventyConfig);
