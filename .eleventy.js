@@ -559,7 +559,6 @@ module.exports = function (eleventyConfig) {
     },
   });
 
-
   eleventyConfig.addCollection("footerPages", function (collectionApi) {
     return collectionApi.getAll().filter(function (item) {
       return item.data["dg-footer"] === true;
