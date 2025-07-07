@@ -5,7 +5,8 @@
 Welcome to NoobThink. 
 
 ## Recent Articles
-- [[Projects/digital garden/articles/why we use n1 instead of n when calculating variance\|Why we use n-1 instead of n when calculating variance]] *May 4, 2025*
+- [[Notes/customizing obsidians digital garden theme\|Customizing Obsidian's Digital Garden Theme]] *Jul 7, 2025*
+- [[Notes/why we use n1 instead of n when calculating variance\|Why we use n-1 instead of n when calculating variance]] *May 4, 2025*
 - [[Notes/You cannot miss an opportunity you were not able to define or recognize\|You cannot miss an opportunity you were not able to define or recognize]] *Jan 29, 2025*
 - [[Notes/create an url shortener in your quartz blog\|Create An URL Shortener in your Quartz Blog]] *Jan 22, 2025*
 - [[Notes/How to Fix Google OAuth Credentials Expiring After 7 Days in n8n\|How to Fix Google OAuth Credentials Expiring After 7 Days in n8n]] *Dec 21, 2024*
