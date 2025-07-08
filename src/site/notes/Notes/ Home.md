@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["hide-properties","hide-backlinks"],"dg-publish":true,"slug":"home","permalink":"/notes/home/","dgPassFrontmatter":true,"updated":"2025-04-18T15:52:50.263+02:00"}
+{"cssclasses":["hide-properties","hide-backlinks"],"dg-publish":true,"slug":"home","permalink":"/notes/home/","dgPassFrontmatter":true,"updated":"2025-05-26T15:17:23.229+02:00"}
 ---
 
 ```journals-home
@@ -10,7 +10,7 @@ separator: " • "
 ```
 
 ## :LiRocket: Projects
-  [[Notes/Projects MoC\|Projects MoC]] • [[Notes/Trading MoC\|Trading MoC]] • [[Notes/Investing MoC\|Investing MoC]]
+  [[Notes/Projects\|Projects]] • [[Notes/Trading MoC\|Trading MoC]] • [[Notes/Investing MoC\|Investing MoC]] • [[Notes/Crypto MoC\|Crypto MoC]]
 
 ## :LiCalendarDays: Daily life
 

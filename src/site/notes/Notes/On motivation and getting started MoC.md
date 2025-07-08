@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-04T13:13","dg-publish":true,"permalink":"/notes/on-motivation-and-getting-started-mo-c/","dgPassFrontmatter":true,"updated":"2025-01-26T19:35:57.049+01:00"}
+{"created":"2022-06-04T13:13","dg-publish":true,"permalink":"/notes/on-motivation-and-getting-started-mo-c/","dgPassFrontmatter":true,"updated":"2025-06-09T23:08:26.372+02:00"}
 ---
 
 [[Notes/ Home\| Home]] #moc
@@ -28,3 +28,5 @@
 - [[Notes/What you think you need might not be what you really need\|What you think you need might not be what you really need]]
 - [[Notes/Wishful action\|Wishful action]]
 - [[Notes/Before You Do Anything\|Before You Do Anything]]
+- [[Notes/Achievement by proxy\|Achievement by proxy]]
+- [[Notes/Why self help does not work\|Why self help does not work]]

@@ -1,5 +1,5 @@
 ---
-{"created":"2022-07-01T23:48:00","tags":["moc"],"dg-publish":true,"permalink":"/notes/thinking-for-yourself-mo-c/","dgPassFrontmatter":true,"updated":"2024-12-21T16:50:13.821+01:00"}
+{"created":"2022-07-01T23:48:00","tags":["moc"],"dg-publish":true,"permalink":"/notes/thinking-for-yourself-mo-c/","dgPassFrontmatter":true,"updated":"2025-06-09T23:08:40.842+02:00"}
 ---
 
 [[Notes/ Home\| Home]] #moc 
@@ -15,3 +15,4 @@
 - [[Notes/Compulsive thinking vs Constructive thinking\|Compulsive thinking vs Constructive thinking]]
 - [[Notes/Judgement is the end of thinking\|Judgement is the end of thinking]]
 - [[Notes/What you think you need might not be what you really need\|What you think you need might not be what you really need]]
+- [[Notes/Why self help does not work\|Why self help does not work]]

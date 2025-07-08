@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-04T13:09:00","aliases":"focus on the process","tags":["moc"],"dg-publish":true,"permalink":"/notes/on-the-process-mo-c/","dgPassFrontmatter":true,"updated":"2025-01-26T19:36:13.964+01:00"}
+{"created":"2022-06-04T13:09:00","aliases":"focus on the process","tags":["moc"],"dg-publish":true,"permalink":"/notes/on-the-process-mo-c/","dgPassFrontmatter":true,"updated":"2025-06-09T23:00:45.456+02:00"}
 ---
 
 [[Notes/ Home\| Home]] #moc 
@@ -29,3 +29,4 @@ Focus on [[Notes/Improvement over results\|Improvement over results]]. End goals
 - [[Notes/Do What Makes You Vibrate\|Do What Makes You Vibrate]]
 - [[Notes/Get shit done\|Get shit done]]
 - [[Notes/Before You Do Anything\|Before You Do Anything]]
+- [[Notes/The Opportunity Push-Pull Dichotomy\|The Opportunity Push-Pull Dichotomy]]

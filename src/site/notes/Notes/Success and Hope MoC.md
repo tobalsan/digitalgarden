@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T23:12","dg-publish":true,"permalink":"/notes/success-and-hope-mo-c/","dgPassFrontmatter":true,"updated":"2025-01-19T22:16:26.350+01:00"}
+{"created":"2022-06-28T23:12","dg-publish":true,"permalink":"/notes/success-and-hope-mo-c/","dgPassFrontmatter":true,"updated":"2025-06-09T23:08:31.814+02:00"}
 ---
 
 [[Notes/ Home\| Home]] #moc 
@@ -16,3 +16,5 @@
 - [[Notes/Life is a giant game made up of small games\|Life is a giant game made up of small games]]
 - [[Notes/Wishful action\|Wishful action]]
 - [[Notes/Playing in your league\|Playing in your league]]
+- [[Notes/Achievement by proxy\|Achievement by proxy]]
+- [[Notes/Why self help does not work\|Why self help does not work]]
