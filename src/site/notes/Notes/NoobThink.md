@@ -6,6 +6,7 @@
 | Date          |                                                                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Jul 7, 2025   | [[Notes/customizing obsidians digital garden theme\|Customizing Obsidian's Digital Garden Theme]]                                                                      |
+| Jun 24, 2025  | [[being overly ambitious is a liability not a quality\|Being overly ambitious is a liability not a quality]]                                                           |
 | May 4, 2025   | [[Notes/why we use n1 instead of n when calculating variance\|Why we use n-1 instead of n when calculating variance]]                                                  |
 | Jan 29, 2025  | [[Notes/You cannot miss an opportunity you were not able to define or recognize\|You cannot miss an opportunity you were not able to define or recognize]]             |
 | Jan 22, 2025  | [[Notes/create an url shortener in your quartz blog\|Create An URL Shortener in your Quartz Blog]]                                                                     |
