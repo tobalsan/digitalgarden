@@ -1,5 +1,5 @@
 ---
-{"title":"Create An URL Shortener in your Quartz Blog","dg-permalink":"url-shortener-in-quartz-blog","created":"2025-01-22T14:45","project":["[[noobthink.com]]"],"dg-publish":true,"tags":["article"],"permalink":"/url-shortener-in-quartz-blog/","dgPassFrontmatter":true,"updated":"2025-04-18T15:53:21.327+02:00"}
+{"title":"Create An URL Shortener in your Quartz Blog","dg-permalink":"url-shortener-in-quartz-blog","created":"2025-01-22T14:45","project":"[[NoobThink]]","dg-publish":true,"tags":["article"],"permalink":"/url-shortener-in-quartz-blog/","dgPassFrontmatter":true,"updated":"2025-11-16T14:39:36.030+01:00"}
 ---
 
 # Create An URL Shortener in your Quartz Blog

@@ -1,13 +1,10 @@
 ---
-{"created":"2024-11-29T22:39","source":"https://www.youtube.com/watch?v=hD-sSRGynpM","dg-publish":true,"permalink":"/notes/10-key-concepts-to-use-obsidian/","dgPassFrontmatter":true,"updated":"2024-12-21T15:07:05.442+01:00"}
+{"created":"2024-11-29T22:39","source":"https://www.youtube.com/watch?v=hD-sSRGynpM","dg-publish":true,"permalink":"/notes/10-key-concepts-to-use-obsidian/","dgPassFrontmatter":true,"updated":"2025-08-09T16:30:22.531+02:00"}
 ---
 
-[[Notes/Note-taking MoC\|Note-taking MoC]]
+[[Note-taking MoC\|Note-taking MoC]]
 
 # 10 Key Concepts to Use Obsidian
-
-```toc
-```
 
 ## 1. Balance System Setup and Real Work
 Many users spend excessive time configuring templates, plugins, and other advanced features instead of using the system for actual work. 

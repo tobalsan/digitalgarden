@@ -2,7 +2,7 @@
 {"created":202410031652,"dg-publish":true,"permalink":"/notes/compulsive-thinking-vs-constructive-thinking/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.257+01:00"}
 ---
 
-[[Notes/Thinking for yourself MoC\|Thinking for yourself MoC]]
+[[Thinking for yourself MoC\|Thinking for yourself MoC]]
 # Compulsive thinking vs Constructive thinking.
 
 Thinking is like water. If it does not flow, it will become stale, even poisonous. 

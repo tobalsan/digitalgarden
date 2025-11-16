@@ -2,13 +2,13 @@
 {"created":"2024-10-17T09:12:00","status":"draft","dg-publish":true,"tags":["article"],"permalink":"/notes/growth-requires-a-deadline/","dgPassFrontmatter":true,"updated":"2025-04-18T14:35:16.292+02:00"}
 ---
 
-[[Notes/ Home\| Home]] • [[Notes/On the process MoC\|On the process MoC]] • [[Notes/On creativity MoC\|On creativity MoC]]
+[[ Home\| Home]] • [[On the process MoC\|On the process MoC]] • [[On creativity MoC\|On creativity MoC]]
 # Growth requires a deadline
 Isn't it funny how it's often projects with a clear deadline are kept alive and going, while project without deadlines often go nowhere and end up dead. 
 I'm not necessarily talking about professional projects, although it applies there too. 
 But with personal projects, it's quite clear. Which project do you think is more likely to get somewhere: *Lose weight* or *Lose weight in the next 6 months*. 
 Having no deadline invite vague goals, overthinking, procrastination, perpetual delaying, confusion.
-Having a deadline [[Notes/You cannot iterate in a vacuum\|applies constraints, forces you to be specific, to reassess, and iterate]].
+Having a deadline [[You cannot iterate in a vacuum\|applies constraints, forces you to be specific, to reassess, and iterate]].
 
 Life itself not only has a deadline, but has deadlines all along. Your cells die, you shed skin, everything in your body dies to make room for the new stuff. That's how you grow. 
 

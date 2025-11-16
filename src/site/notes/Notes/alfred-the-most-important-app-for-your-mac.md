@@ -1,5 +1,5 @@
 ---
-{"title":"Alfred, The Most Important App For Your Mac","slug":"alfred-the-most-important-app-for-your-mac","created":"2020-11-10T09:00:00.000Z","updated":"2025-04-18T15:53:21.312+02:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":["article"],"permalink":"/notes/alfred-the-most-important-app-for-your-mac/","dgPassFrontmatter":true}
+{"title":"Alfred, The Most Important App For Your Mac","slug":"alfred-the-most-important-app-for-your-mac","created":"2020-11-10T09:00:00.000Z","updated":"2025-11-16T14:39:35.994+01:00","dg-publish":true,"dg-list-home":true,"project":"[[NoobThink]]","tags":["article"],"permalink":"/notes/alfred-the-most-important-app-for-your-mac/","dgPassFrontmatter":true}
 ---
 
 # Alfred, The Most Important App For Your Mac

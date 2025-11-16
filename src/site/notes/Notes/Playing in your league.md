@@ -2,7 +2,7 @@
 {"created":"2024-03-12T07:40:00","dg-publish":true,"permalink":"/notes/playing-in-your-league/","dgPassFrontmatter":true,"updated":"2025-01-19T22:17:03.476+01:00"}
 ---
 
-[[Notes/On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]] • [[Notes/Success and Hope MoC\|Success and Hope MoC]]
+[[On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]] • [[Success and Hope MoC\|Success and Hope MoC]]
 
 # Playing in your league
 

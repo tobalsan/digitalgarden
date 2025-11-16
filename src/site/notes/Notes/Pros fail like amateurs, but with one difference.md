@@ -10,11 +10,11 @@ Both pros and amateurs meet failure time and again. The difference is in how the
 - The amateur wants to create a full featured app. The pro releases an alpha version. 
 - The amateur wants to create a popular blog with millions of views. The pro writes a short article and shares it with the world.
 
-In all these examples, both the amateur and the pro will fail. But the difference is in the approach. The amateur aims for a hit, the big achievement. On the other hand, the pro *prototype*. He starts with a simple version, and let it into to the world to see what happens. The pro knows that [[Notes/Things get accomplished by iteration\|Things get accomplished by iteration]]. He knows that it's important to [[Notes/Balance your effort with enjoyment\|Balance your effort with enjoyment]].
+In all these examples, both the amateur and the pro will fail. But the difference is in the approach. The amateur aims for a hit, the big achievement. On the other hand, the pro *prototype*. He starts with a simple version, and let it into to the world to see what happens. The pro knows that [[Things get accomplished by iteration\|Things get accomplished by iteration]]. He knows that it's important to [[Balance your effort with enjoyment\|Balance your effort with enjoyment]].
 
-Amateur shoot for the stars, and pray hard they don't fail. Sometimes they don't even really start because [[Notes/Fear of failure often cause inaction\|Fear of failure often cause inaction]]. Since their aim is so high, they get stumped because [[Notes/Overthinking kills momentum\|Overthinking kills momentum]].
+Amateur shoot for the stars, and pray hard they don't fail. Sometimes they don't even really start because [[Fear of failure often cause inaction\|Fear of failure often cause inaction]]. Since their aim is so high, they get stumped because [[Overthinking kills momentum\|Overthinking kills momentum]].
 For the pros, failure was always a possibility. 
-When amateur fail, they crash spectacularly. When pros fail, they collect data. They [[Notes/Plant seeds, not trees\|Plant seeds, not trees]]. They [[Notes/Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]. Contrary to amateurs who aim too big, they embrace [[Notes/Tinkering\|Tinkering]].
+When amateur fail, they crash spectacularly. When pros fail, they collect data. They [[Notes/Plant seeds, not trees\|Plant seeds, not trees]]. They [[Act fast, then take the time to reflect\|Act fast, then take the time to reflect]]. Contrary to amateurs who aim too big, they embrace [[Tinkering\|Tinkering]].
 
 ---
 ## Reference

@@ -1,5 +1,5 @@
 ---
-{"title":"Fork is a great Git GUI client","slug":"fork-git-client","created":"2022-09-14T10:00:33.000Z","updated":"2025-04-18T15:53:21.340+02:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"excerpt":"Are you looking for a great Git client? Give Fork a try, it’s awesome.","tags":["article"],"permalink":"/notes/fork-git-client/","dgPassFrontmatter":true}
+{"title":"Fork is a great Git GUI client","slug":"fork-git-client","created":"2022-09-14T10:00:33.000Z","updated":"2025-11-16T14:39:36.001+01:00","dg-publish":true,"dg-list-home":true,"project":"[[NoobThink]]","excerpt":"Are you looking for a great Git client? Give Fork a try, it’s awesome.","tags":["article"],"permalink":"/notes/fork-git-client/","dgPassFrontmatter":true}
 ---
 
 # Fork is a great Git GUI client

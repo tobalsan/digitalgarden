@@ -1,5 +1,5 @@
 ---
-{"title":"I quit using Google","slug":"i-quit-using-from-google","created":"2023-06-04T10:24:46.000Z","updated":"2025-04-18T15:53:21.361+02:00","dg-publish":true,"dg-list-home":true,"project":["[[noobthink.com]]"],"tags":["article"],"permalink":"/notes/i-quit-using-from-google/","dgPassFrontmatter":true}
+{"title":"I quit using Google","slug":"i-quit-using-from-google","created":"2023-06-04T10:24:46.000Z","updated":"2025-11-16T14:39:35.994+01:00","dg-publish":true,"dg-list-home":true,"project":"[[NoobThink]]","tags":["article"],"permalink":"/notes/i-quit-using-from-google/","dgPassFrontmatter":true}
 ---
 
 # I quit using Google

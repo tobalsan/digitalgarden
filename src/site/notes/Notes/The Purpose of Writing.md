@@ -2,7 +2,7 @@
 {"created":"2023-11-23T15:59:00","dg-publish":true,"type":["essay"],"permalink":"/notes/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:03.251+01:00"}
 ---
 
-[[Notes/Note-taking MoC\|Note-taking MoC]]
+[[Note-taking MoC\|Note-taking MoC]]
 
 # The Purpose of Writing
 

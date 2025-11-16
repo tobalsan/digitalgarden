@@ -1,5 +1,5 @@
 ---
-{"title":"Why we use n-1 instead of n when calculating variance","dg-permalink":"why-do-we-use-n1-instead-of-n-when-calculating-variance","project":[["noobthink.com"]],"created":"2025-05-04T11:49","dg-publish":true,"tags":["article"],"permalink":"/why-do-we-use-n1-instead-of-n-when-calculating-variance/","dgPassFrontmatter":true,"updated":"2025-05-04T12:49:06.278+02:00"}
+{"title":"Why we use n-1 instead of n when calculating variance","dg-permalink":"why-do-we-use-n1-instead-of-n-when-calculating-variance","project":"[[NoobThink]]","created":"2025-05-04T11:49","dg-publish":true,"tags":["article"],"permalink":"/why-do-we-use-n1-instead-of-n-when-calculating-variance/","dgPassFrontmatter":true,"updated":"2025-11-16T14:44:17.575+01:00"}
 ---
 
 # Why We Use n-1 Instead of n When Calculating Variance

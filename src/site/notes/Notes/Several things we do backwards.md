@@ -1,8 +1,8 @@
 ---
-{"created":"2020-12-30T10:17:00","project":[["noobthink.com"]],"dg-publish":true,"permalink":"/notes/several-things-we-do-backwards/","dgPassFrontmatter":true,"updated":"2025-04-12T12:06:54.491+02:00"}
+{"project":"[[NoobThink]]","created":"2020-12-30T10:17:00","dg-publish":true,"permalink":"/notes/several-things-we-do-backwards/","dgPassFrontmatter":true,"updated":"2025-11-16T14:58:11.776+01:00"}
 ---
 
-[[Notes/Things we do backwards MoC\|Things we do backwards MoC]]
+[[Things we do backwards MoC\|Things we do backwards MoC]]
 # Several things we do backwards
 ## Thinking hard when we should trust our guts, and vice versa.
 - Ex: thinking hard about what meal to choose at the restaurant, and following our guts when making a big purchase decision or investing in stock.
@@ -14,7 +14,7 @@
 - We try to force exercising, dieting, taking on new habits with sheer willpower when it works best to find an easy way in. Or we discipline ourselves into long hours of boring, unfulfilling tasks, unproductive tasks. And when we're enjoying things, doing exciting stuff, things that come easy, we stay superficial instead of doubling down on it. Laziness is not a defect, it's an evolutionary tool.
 ## Aligning reality with our expectations instead of the reverse.
 - We rationalise, retrofit explanations, and invent stories to fit reality into our worldview, instead of doing the opposite: opening our minds and embracing reality to learn and grow in the process.
-- [[Notes/Align with reality\|Align with reality]]
+- [[Align with reality\|Align with reality]]
 ## Hurrying in the daily life yet wasting time in the long run.
 - Why are we so in a hurry in every day life—we get stressed out when stuck in traffic jam, when a website takes too much time to load, when we have to wait for someone or something—but when it comes to time spans a bit longer, just looking at quarters or a year, we're not using this time fully? By the end of the quarter of the year, we haven't accomplished much. Things haven't really changed. We want to change things over the course of a day or a week, but keep the status quo over the months and years. It's because we're chasing events when results, i.e. real change, is borne out of process.
 ## Want things now, but are not being present

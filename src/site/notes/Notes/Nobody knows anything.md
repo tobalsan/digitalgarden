@@ -2,7 +2,7 @@
 {"created":"2022-08-31T19:51:00","dg-publish":true,"permalink":"/notes/nobody-knows-anything/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.241+01:00"}
 ---
 
-[[Notes/On creativity MoC\|On creativity MoC]]
+[[On creativity MoC\|On creativity MoC]]
 # Nobody knows anything
 
 Some people think you need talent, money, connections, luck, or any combination of these, in order to succeed.
@@ -29,7 +29,7 @@ Upon hearing [[Jimmy Page\|Jimmy Page]]'s first composition, a famous music prod
 **The truth is, in creative work, nobody knows anything**. So you're better off minding your own business anyway, and simply focusing on your work. 
 The essence of creative work is to not know the answers. If you always knew the answers, this wouldn't be creative work. This would be administrative stuff.
 
-Instead of thinking that some people have the definite answer, and that you need one thing in particular in order to succeed, you're better off [[Notes/On the process MoC\|focus on the process]]. Hone your skills, [[Notes/To keep going, you must do what is fun and enjoyable\|do what brings joy to you]], and don't worry about what you need or lack or any secret ingredient to be successful.
+Instead of thinking that some people have the definite answer, and that you need one thing in particular in order to succeed, you're better off [[On the process MoC\|focus on the process]]. Hone your skills, [[To keep going, you must do what is fun and enjoyable\|do what brings joy to you]], and don't worry about what you need or lack or any secret ingredient to be successful.
 
 ---
 ## References
