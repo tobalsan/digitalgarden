@@ -1,5 +1,5 @@
 ---
-{"created":"2022-09-01T19:29:00","dg-publish":true,"permalink":"/notes/the-two-factors-impairing-our-learning/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:14.279+01:00"}
+{"created":"2022-09-01T19:29:00","dg-publish":true,"permalink":"/notes/the-two-factors-impairing-our-learning/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:47.559+02:00"}
 ---
 
 [[Thinking for yourself MoC\|Thinking for yourself MoC]]

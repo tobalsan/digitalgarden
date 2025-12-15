@@ -1,8 +1,7 @@
 ---
-{"created":"2024-10-17T09:12:00","status":"draft","dg-publish":true,"tags":["article"],"permalink":"/notes/growth-requires-a-deadline/","dgPassFrontmatter":true,"updated":"2025-04-18T14:35:16.292+02:00"}
+{"created":"2024-10-17T09:12:00","status":"published","dg-publish":true,"tags":["article"],"permalink":"/notes/growth-requires-a-deadline/","dgPassFrontmatter":true,"updated":"2025-12-15T23:41:59.751+01:00"}
 ---
 
-[[ Home\| Home]] • [[On the process MoC\|On the process MoC]] • [[On creativity MoC\|On creativity MoC]]
 # Growth requires a deadline
 Isn't it funny how it's often projects with a clear deadline are kept alive and going, while project without deadlines often go nowhere and end up dead. 
 I'm not necessarily talking about professional projects, although it applies there too. 

@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-01T13:45:00","dg-publish":true,"permalink":"/notes/the-progress-dichotomy-active-vs-passive-state/","dgPassFrontmatter":true,"updated":"2025-01-03T12:00:57.037+01:00"}
+{"created":"2024-10-01T13:45:00","dg-publish":true,"permalink":"/notes/the-progress-dichotomy-active-vs-passive-state/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:43.741+02:00"}
 ---
 
 [[On the process MoC\|On the process MoC]]

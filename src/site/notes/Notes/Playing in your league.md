@@ -1,5 +1,5 @@
 ---
-{"created":"2024-03-12T07:40:00","dg-publish":true,"permalink":"/notes/playing-in-your-league/","dgPassFrontmatter":true,"updated":"2025-01-19T22:17:03.476+01:00"}
+{"created":"2024-03-12T07:40:00","dg-publish":true,"permalink":"/notes/playing-in-your-league/","dgPassFrontmatter":true,"updated":"2025-04-18T15:13:06.286+02:00"}
 ---
 
 [[On Passion and Ambitious Goals MoC\|On Passion and Ambitious Goals MoC]] • [[Success and Hope MoC\|Success and Hope MoC]]

@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/problems-and-struggle-contain-the-seed-of-growth/","dgPassFrontmatter":true,"updated":"2024-12-22T16:23:56.241+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/problems-and-struggle-contain-the-seed-of-growth/","dgPassFrontmatter":true,"updated":"2025-04-18T15:11:43.088+02:00"}
 ---
 
 [[On creativity MoC\|On creativity MoC]]

@@ -1,5 +1,5 @@
 ---
-{"created":202410041004,"dg-publish":true,"permalink":"/notes/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:19.338+01:00"}
+{"created":202410041004,"dg-publish":true,"permalink":"/notes/be-specific-or-be-mediocre/","dgPassFrontmatter":true,"updated":"2025-04-18T15:13:17.073+02:00"}
 ---
 
 [[On the process MoC\|On the process MoC]]

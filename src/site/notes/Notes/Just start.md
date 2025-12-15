@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/just-start/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:03.249+01:00"}
+{"created":"2022-06-28T12:32:00","dg-publish":true,"permalink":"/notes/just-start/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:08.127+02:00"}
 ---
 
 [[On the process MoC\|On the process MoC]] • [[On motivation and getting started MoC\|On motivation and getting started MoC]]

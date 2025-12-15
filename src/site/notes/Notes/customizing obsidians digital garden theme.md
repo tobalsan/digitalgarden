@@ -1,5 +1,5 @@
 ---
-{"title":"Customizing Obsidian's Digital Garden Theme","dg-permalink":"customizing-obsidians-digital-garden-theme","project":"[[NoobThink]]","created":"2025-07-07T20:15","tags":["article"],"dg-publish":true,"permalink":"/customizing-obsidians-digital-garden-theme/","dgPassFrontmatter":true,"updated":"2025-11-16T14:39:53.022+01:00"}
+{"title":"Customizing Obsidian's Digital Garden Theme","dg-permalink":"customizing-obsidians-digital-garden-theme","project":"[[NoobThink]]","created":"2025-07-07T20:15","tags":["article"],"dg-publish":true,"permalink":"/customizing-obsidians-digital-garden-theme/","dgPassFrontmatter":true,"updated":"2025-07-08T00:16:10.044+02:00"}
 ---
 
 # Customizing Obsidian's Digital Garden Theme

@@ -1,5 +1,5 @@
 ---
-{"created":"2022-08-31T19:51:00","dg-publish":true,"permalink":"/notes/nobody-knows-anything/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:18.241+01:00"}
+{"created":"2022-08-31T19:51:00","dg-publish":true,"permalink":"/notes/nobody-knows-anything/","dgPassFrontmatter":true,"updated":"2025-04-18T15:13:05.428+02:00"}
 ---
 
 [[On creativity MoC\|On creativity MoC]]

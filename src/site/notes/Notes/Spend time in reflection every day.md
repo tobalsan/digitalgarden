@@ -1,5 +1,5 @@
 ---
-{"created":"2022-07-30T18:07:00","dg-publish":true,"permalink":"/notes/spend-time-in-reflection-every-day/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:05.246+01:00"}
+{"created":"2022-07-30T18:07:00","dg-publish":true,"permalink":"/notes/spend-time-in-reflection-every-day/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:18.739+02:00"}
 ---
 
 [[Thinking for yourself MoC\|Thinking for yourself MoC]]

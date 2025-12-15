@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/skip-the-algorithm/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:01.341+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/skip-the-algorithm/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:02.501+02:00"}
 ---
 
 [[On creativity MoC\|On creativity MoC]] • [[Thinking for yourself MoC\|Thinking for yourself MoC]]

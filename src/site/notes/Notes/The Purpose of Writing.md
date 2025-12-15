@@ -1,5 +1,5 @@
 ---
-{"created":"2023-11-23T15:59:00","dg-publish":true,"type":["essay"],"permalink":"/notes/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:03.251+01:00"}
+{"created":"2023-11-23T15:59:00","dg-publish":true,"type":["essay"],"permalink":"/notes/the-purpose-of-writing/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:09.173+02:00"}
 ---
 
 [[Note-taking MoC\|Note-taking MoC]]

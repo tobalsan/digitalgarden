@@ -1,5 +1,5 @@
 ---
-{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/embrace-constraints/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:10.274+01:00"}
+{"created":"2022-06-28T12:06:00","dg-publish":true,"permalink":"/notes/embrace-constraints/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:31.680+02:00"}
 ---
 
 [[On creativity MoC\|On creativity MoC]]

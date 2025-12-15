@@ -1,5 +1,5 @@
 ---
-{"created":202411160856,"dg-publish":true,"permalink":"/notes/iteration-over-small-samples-and-recursive-improvement/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:12.249+01:00"}
+{"created":202411160856,"dg-publish":true,"permalink":"/notes/iteration-over-small-samples-and-recursive-improvement/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:38.121+02:00"}
 ---
 
 [[On the process MoC\|On the process MoC]]

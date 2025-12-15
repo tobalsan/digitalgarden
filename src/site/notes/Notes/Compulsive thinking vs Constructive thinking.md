@@ -1,5 +1,5 @@
 ---
-{"created":202410031652,"dg-publish":true,"permalink":"/notes/compulsive-thinking-vs-constructive-thinking/","dgPassFrontmatter":true,"updated":"2024-12-22T16:24:15.257+01:00"}
+{"created":202410031652,"dg-publish":true,"permalink":"/notes/compulsive-thinking-vs-constructive-thinking/","dgPassFrontmatter":true,"updated":"2025-04-18T15:12:49.462+02:00"}
 ---
 
 [[Thinking for yourself MoC\|Thinking for yourself MoC]]

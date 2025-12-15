@@ -1,5 +1,5 @@
 ---
-{"title":"About","slug":"about","created":"2020-12-20T07:31:43.000Z","updated":"2025-04-18T14:37:12.466+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":2,"tags":["page"],"permalink":"/notes/about/","dgPassFrontmatter":true}
+{"title":"About","slug":"about","created":"2020-12-20T07:31:43.000Z","updated":"2025-04-18T15:11:38.248+02:00","dg-publish":true,"dg-footer":true,"dg-footer-position":2,"tags":["page"],"permalink":"/notes/about/","dgPassFrontmatter":true}
 ---
 
 Hi there!
