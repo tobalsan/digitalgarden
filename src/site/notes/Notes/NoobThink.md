@@ -27,7 +27,12 @@
 | Sep 22, 2024 | [[Notes/Now\|Now]]                                                                                                                                                     |
 | Sep 22, 2024 | [[Notes/alfred-the-most-important-app-for-your-mac\|Alfred, The Most Important App For Your Mac]]                                                                      |
 | Nov 23, 2023 | [[Notes/The Purpose of Writing\|The Purpose of Writing]]                                                                                                               |
+| Jun 30, 2023 | [[Notes/Fixing shitty image when connecting TV to computer\|Fixing shitty image when connecting TV to computer]]                                                       |
 | Jun 14, 2023 | [[Notes/Several things we do backwards\|Several things we do backwards]]                                                                                               |
+| Jun 14, 2023 | [[Notes/Uncertainty, reading non-linearly\|Uncertainty, reading non-linearly]]                                                                                         |
+| Jun 3, 2023  | [[Notes/how to quickly create svg logos with AI\|how to quickly create svg logos with AI]]                                                                             |
+| May 31, 2023 | [[Notes/First impressions with Arc Browser\|First impressions with Arc Browser]]                                                                                       |
+| May 3, 2023  | [[Notes/replicate Roam Research Tomorrow command in Obsidian\|replicate Roam Research Tomorrow command in Obsidian]]                                                   |
 | Jan 10, 2023 | [[Notes/Train Stations\|Train Stations]]                                                                                                                               |
 | Oct 14, 2022 | [[Notes/Why you are full of ideas and drive at night\|Why you are full of ideas and drive at night]]                                                                   |
 | Oct 14, 2022 | [[Notes/The two factors impairing our learning\|The two factors impairing our learning]]                                                                               |

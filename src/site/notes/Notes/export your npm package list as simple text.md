@@ -1,5 +1,5 @@
 ---
-{"status":"draft","title":"Export Your NPM package list as simple text","dg-permalink":"export-your-npm-package-list-as-simple-text","created":"2025-11-16T15:03","tags":["article"],"dg-publish":true,"permalink":"/export-your-npm-package-list-as-simple-text/","dgPassFrontmatter":true,"updated":"2025-11-25T17:44:44.764+01:00"}
+{"status":"published","title":"Export Your NPM package list as simple text","dg-permalink":"export-your-npm-package-list-as-simple-text","created":"2025-11-16T15:03","dg-publish":true,"permalink":"/export-your-npm-package-list-as-simple-text/","dgPassFrontmatter":true,"updated":"2025-12-15T23:56:50.878+01:00"}
 ---
 
 # Backup And Reimport Your NPM Package List As Simple Text
